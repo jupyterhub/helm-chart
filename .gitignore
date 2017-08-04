@@ -61,7 +61,10 @@ lib64/
 parts/
 sdist/
 var/
+<<<<<<< HEAD
 wheels/
+=======
+>>>>>>> z2jh/master
 *.egg-info/
 .installed.cfg
 *.egg
@@ -130,3 +133,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Emacs
+.#*
