@@ -14,9 +14,10 @@ RUN apt-get update && \
       python3-pip && \
      apt-get purge && apt-get clean
 
+ARG JUPYTERHUB_VERSION=0.7.2
 
 RUN pip3 install --no-cache-dir \
-         jupyterhub==0.7.2 \
+         jupyterhub==$JUPYTERHUB_VERSION \
          oauthenticator==0.5.1 \
          statsd==3.2.1 \
          jupyterhub-dummyauthenticator==0.3.1 \
@@ -35,4 +36,4 @@ WORKDIR /srv/jupyterhub
 # JupyterHub API port
 EXPOSE 8081
 
-CMD jupyterhub --config /srv/jupyterhub_config.py --no-ssl
+CMD jupyterhub --config /srv/jupyterhub_config.py
