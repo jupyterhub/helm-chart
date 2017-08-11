@@ -2,15 +2,7 @@ apiVersion: v1
 entries:
   jupyterhub:
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.415712041Z
-    description: Multi-user Jupyter installation
-    digest: fe32410d35db5ae241a1a8605e13e91acad1380191020d1c43e8f4834614ff79
-    name: jupyterhub
-    urls:
-    - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0+219e37e.tgz
-    version: v0.5.0+219e37e
-  - apiVersion: v1
-    created: 2017-08-11T23:07:37.416069818Z
+    created: 2017-08-11T23:53:14.088970259Z
     description: Multi-user Jupyter installation
     digest: a3b4a3fa8edf7674d1fa07e5a60f2ce042ee2577da7c917c02c535dfd9f657a9
     name: jupyterhub
@@ -18,7 +10,23 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0+618393f.tgz
     version: v0.5.0+618393f
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.415047589Z
+    created: 2017-08-11T23:53:14.088551454Z
+    description: Multi-user Jupyter installation
+    digest: fe32410d35db5ae241a1a8605e13e91acad1380191020d1c43e8f4834614ff79
+    name: jupyterhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0+219e37e.tgz
+    version: v0.5.0+219e37e
+  - apiVersion: v1
+    created: 2017-08-11T23:53:14.089319827Z
+    description: Multi-user Jupyter installation
+    digest: 5d92649c885076dde16798739528274363e5847c224fb245e49a9f9cf2965c5d
+    name: jupyterhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0+aad9920.tgz
+    version: v0.5.0+aad9920
+  - apiVersion: v1
+    created: 2017-08-11T23:53:14.087907596Z
     description: Multi-user Jupyter installation
     digest: 5ea4723bc8fa445ec0db40f3e9a030f271193e53b385629c7302a118ac1fc4a9
     name: jupyterhub
@@ -26,7 +34,7 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.4.0+fb6fc47.tgz
     version: v0.4.0+fb6fc47
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.415362649Z
+    created: 2017-08-11T23:53:14.088212332Z
     description: Multi-user Jupyter installation
     digest: 0f5f5cf279c20147d594b48369862ef8886613b15f39254af441dd03018c1540
     name: jupyterhub
@@ -34,15 +42,7 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.4.tgz
     version: v0.4
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.414008367Z
-    description: Multi-user Jupyter installation
-    digest: f645a23fa04892f4a733d7ee902f4df2a5823d480e2876907872abfa582b149a
-    name: jupyterhub
-    urls:
-    - https://jupyterhub.github.io/helm-chart/jupyterhub-ba01ebd.tgz
-    version: ba01ebd
-  - apiVersion: v1
-    created: 2017-08-11T23:07:37.413702919Z
+    created: 2017-08-11T23:53:14.086625873Z
     description: Multi-user Jupyter installation
     digest: a03b4b17427cc6e508233dd98fa2eaf1b7ff420e8268acad6cdddd651e84406f
     name: jupyterhub
@@ -50,7 +50,7 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-977d72c.tgz
     version: 977d72c
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.413375656Z
+    created: 2017-08-11T23:53:14.086302871Z
     description: Multi-user Jupyter installation
     digest: 0a6f03b8bc960a8ee8ca8bb9abe48c00b90d19565cda6a45557594c9574ca1cc
     name: jupyterhub
@@ -58,7 +58,7 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-5dffd0f.tgz
     version: 5dffd0f
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.41298502Z
+    created: 2017-08-11T23:53:14.085967541Z
     description: Multi-user Jupyter installation
     digest: 2ca2376fdb3bd304594c3f460f0cfd2d55bf3fd19391a86c1117f1f77ac7d6cd
     name: jupyterhub
@@ -66,7 +66,7 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-56bc84c.tgz
     version: 56bc84c
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.412395318Z
+    created: 2017-08-11T23:53:14.085199251Z
     description: Multi-user Jupyter installation
     digest: 37cc290cc2cdef0e0abad4eb6b76685516fd4c1a257892891daa18548be59236
     name: jupyterhub
@@ -74,15 +74,15 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-5.3894e+09.tgz
     version: "5.3894e+09"
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.411860509Z
+    created: 2017-08-11T23:53:14.086941893Z
     description: Multi-user Jupyter installation
-    digest: 816c16ec699a6d7b274570e0df566463c2f9f05e15ed22aa4ab9ca95e2a78b03
+    digest: f645a23fa04892f4a733d7ee902f4df2a5823d480e2876907872abfa582b149a
     name: jupyterhub
     urls:
-    - https://jupyterhub.github.io/helm-chart/jupyterhub-24c1acf.tgz
-    version: 24c1acf
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-ba01ebd.tgz
+    version: ba01ebd
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.414711166Z
+    created: 2017-08-11T23:53:14.087583398Z
     description: Multi-user Jupyter installation
     digest: 0622c1816d0966f1a38b6c7c26d4d1fba4eecec02352b99401338145385e5d28
     name: jupyterhub
@@ -90,11 +90,19 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-dafe857.tgz
     version: dafe857
   - apiVersion: v1
-    created: 2017-08-11T23:07:37.414354639Z
+    created: 2017-08-11T23:53:14.084355873Z
+    description: Multi-user Jupyter installation
+    digest: 816c16ec699a6d7b274570e0df566463c2f9f05e15ed22aa4ab9ca95e2a78b03
+    name: jupyterhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-24c1acf.tgz
+    version: 24c1acf
+  - apiVersion: v1
+    created: 2017-08-11T23:53:14.087278718Z
     description: Multi-user Jupyter installation
     digest: 8ddf3e8d3e28454a965726e4324b9b5a228cbc02d01c3eec1adb1a429acdf7c1
     name: jupyterhub
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-d95c5ca.tgz
     version: d95c5ca
-generated: 2017-08-11T23:07:37.411104066Z
+generated: 2017-08-11T23:53:14.083180139Z
