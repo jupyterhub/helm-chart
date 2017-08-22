@@ -14,6 +14,9 @@ spec:
   selector:
 {{ toYaml .Values.hub.db.pvc.selector | indent 4 }}
   {{- end }}
+  {{ if .Values.hub.db.pvc.storageClass -}}
+  storageClassName: {{ .Values.hub.db.pvc.storageClass | quote }}
+  {{- end }}
   accessModes:
     {{- range $mode := .Values.hub.db.pvc.accessModes }}
     - {{ $mode }}
