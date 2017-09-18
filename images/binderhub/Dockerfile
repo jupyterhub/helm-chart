@@ -1,4 +1,4 @@
-FROM ubuntu:17.04
+FROM ubuntu:17.10
 
 RUN apt-get update && \
     apt-get install --yes --no-install-recommends \
@@ -8,7 +8,8 @@ RUN apt-get update && \
             python3-pip && \
     apt-get clean
 
-RUN pip3 install --no-cache-dir git+https://github.com/jupyterhub/binderhub.git@1d6f130b3b
+# FIXME: temporary ref pending binderhub#110
+RUN pip3 install --no-cache-dir git+https://github.com/minrk/binderhub.git@d6d12fa
 ADD binderhub_config.py /etc
 
 WORKDIR /etc
