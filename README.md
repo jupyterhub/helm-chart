@@ -2,7 +2,9 @@
 
 [![Join the chat at https://gitter.im/jupyterhub/binder](https://badges.gitter.im/jupyterhub/binder.svg)](https://gitter.im/jupyterhub/binder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This repository contains the Helm charts for BinderHub and JupyterHub. The
+This repository stores Helm chart tarballs for BinderHub and JupyterHub. While
+this repo is a store of Helm chart tarballs, **actual development** of the Helm
+charts takes place in the [BinderHub][] and [Zero to JupyterHub][] repos. These
 [Helm][] charts are used with [Kubernetes][] deployments of [BinderHub][] and
 [JupyterHub][].
 
@@ -23,9 +25,9 @@ use of these helm charts:
 
 ## Links to related repos
 
-- [BinderHub](https://github.com/jupyterhub/binderhub)
-- [Zero to JupyterHub](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
-- [JupyterHub](https://github.com/jupyterhub/jupyterhub)
+- [BinderHub][]
+- [Zero to JupyterHub][]
+- [JupyterHub][]
 - [repo2docker](https://github.com/jupyter/repo2docker)
 
 ## Questions
@@ -33,9 +35,8 @@ use of these helm charts:
 Visit us to
 [![Join the chat at https://gitter.im/jupyterhub/binder](https://badges.gitter.im/jupyterhub/binder.svg)](https://gitter.im/jupyterhub/binder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
-
-
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
 [BinderHub]: https://github.com/jupyterhub/binderhub
 [JupyterHub]: https://github.com/jupyterhub/jupyterhub
+[Zero to JupyterHub]: https://github.com/jupyterhub/zero-to-jupyterhub-k8s
