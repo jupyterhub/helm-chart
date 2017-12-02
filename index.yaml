@@ -654,7 +654,7 @@ entries:
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0-b2ac9a5.tgz']
     version: v0.5.0-b2ac9a5
   - apiVersion: v1
-    created: '2017-12-01T17:48:05.847590+00:00'
+    created: '2017-12-01T17:48:07+00:00'
     description: Multi-user Jupyter installation
     digest: 55b29a68924be3295379aa2424c564ec7e67cec039cdb5b343a2ab707cbfc961
     name: jupyterhub
@@ -940,6 +940,13 @@ entries:
     name: jupyterhub
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0-5a7c0bc.tgz']
     version: v0.5.0-5a7c0bc
+  - apiVersion: v1
+    created: '2017-12-02T01:35:25.032482+00:00'
+    description: Multi-user Jupyter installation
+    digest: 4461ef4f3407b8db3c24dd82eef8e36381869883571b68d330a5f9f8f45cbc25
+    name: jupyterhub
+    urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0-597ed84.tgz']
+    version: v0.5.0-597ed84
   - apiVersion: v1
     created: '2017-10-10T23:01:37+00:00'
     description: Multi-user Jupyter installation
@@ -1347,6 +1354,13 @@ entries:
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz']
     version: v0.3
   - apiVersion: v1
+    created: '2017-08-15T01:20:53+00:00'
+    description: Multi-user Jupyter installation
+    digest: 1442001ff26fa2b466c86141570eab62f872c8e6ccd606b72b0d118ed8ab0079
+    name: jupyterhub
+    urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.0.1+b9c8ce5.tgz']
+    version: v0.0.1+b9c8ce5
+  - apiVersion: v1
     created: '2017-08-15T01:24:45+00:00'
     description: Multi-user Jupyter installation
     digest: def08b5e4f4df38e7dac7b7201d8782559ba5b8074ae5de7b881b4972b89354e
@@ -1360,11 +1374,4 @@ entries:
     name: jupyterhub
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.0.1+d99a1e6.tgz']
     version: v0.0.1+d99a1e6
-  - apiVersion: v1
-    created: '2017-08-15T01:20:53+00:00'
-    description: Multi-user Jupyter installation
-    digest: 1442001ff26fa2b466c86141570eab62f872c8e6ccd606b72b0d118ed8ab0079
-    name: jupyterhub
-    urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.0.1+b9c8ce5.tgz']
-    version: v0.0.1+b9c8ce5
-generated: '2017-12-01T17:48:07.337774+00:00'
+generated: '2017-12-02T01:35:26.203493+00:00'
