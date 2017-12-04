@@ -773,6 +773,13 @@ entries:
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0-92f9876.tgz']
     version: v0.5.0-92f9876
   - apiVersion: v1
+    created: '2017-12-04T18:35:55.324830+00:00'
+    description: Multi-user Jupyter installation
+    digest: 426b8559351dfddd9d77623086e4e5787b7505eaedec1087979980686076d9ed
+    name: jupyterhub
+    urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0-92a1280.tgz']
+    version: v0.5.0-92a1280
+  - apiVersion: v1
     created: '2017-12-03T00:36:06+00:00'
     description: Multi-user Jupyter installation
     digest: 192f34c1dd88831e77c97b18225ec8b7a15ae07485474beadb750d63bdca41c7
@@ -1193,7 +1200,7 @@ entries:
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.5.0-3985101.tgz']
     version: v0.5.0-3985101
   - apiVersion: v1
-    created: '2017-12-04T10:05:13.971099+00:00'
+    created: '2017-12-04T10:05:15+00:00'
     description: Multi-user Jupyter installation
     digest: cf1bfd1f2471ce67e11becca41aa804f763e1e4536f516df9a8b4ddaa27ecb02
     name: jupyterhub
@@ -1416,4 +1423,4 @@ entries:
     name: jupyterhub
     urls: ['https://jupyterhub.github.io/helm-chart/jupyterhub-v0.0.1+d99a1e6.tgz']
     version: v0.0.1+d99a1e6
-generated: '2017-12-04T10:05:15.298897+00:00'
+generated: '2017-12-04T18:35:56.847076+00:00'
