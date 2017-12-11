@@ -14,6 +14,8 @@ The [`gh-pages` branch of this repo](https://github.com/jupyterhub/helm-chart/tr
 contains the latest helm charts for BinderHub and JupyterHub. It also contains
 historical charts as well.
 
+[Website with an index of all charts](https://jupyterhub.github.io/helm-chart/)
+
 ## Usage
 
 Please refer to the following documentation for instructions on the
