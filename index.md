@@ -20,7 +20,7 @@
     {% endfor %}
 </ul>
 
-<h2>Development releases: Jupyterhub</h2>
+<h2>Development releases: JupyterHub</h2>
 <ul>
     {% for chart in site.static_files reversed %}
         {% if chart.extname == '.tgz' and chart.basename contains "jupyterhub" %}
