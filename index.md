@@ -9,6 +9,7 @@
 </ul>
 
 <h2>Stable releases</h2>
+<ul>
     {% for chart in site.static_files reversed %}
         {% if chart.extname == '.tgz' %}
             {% assign chart_splitted = chart.basename | split: "-" %}
@@ -17,6 +18,8 @@
             {% endif %}
         {% endif %}
     {% endfor %}
+</ul>
+
 <h2>Development releases: Jupyterhub</h2>
 <ul>
     {% for chart in site.static_files reversed %}
