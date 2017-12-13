@@ -9,42 +9,47 @@
 </ul>
 
 <h2>Stable releases</h2>
+{% assign jupyterhub = site.data.index.entries.jupyterhub | sort: 'created' | reverse %}
+{% assign binderhub = site.data.index.entries.binderhub | sort: 'created' | reverse %}
+{% assign all_charts = jupyterhub | concat: binderhub %}
 <ul>
-    {% for chart in site.static_files reversed %}
-        {% if chart.extname == '.tgz' %}
-            {% assign chart_splitted = chart.basename | split: "-" %}
-            {% if chart_splitted.size == 2 %}
-            <li> <b><a href="{{ site.url }}/helm-chart{{ chart.path }}"> {{ chart.basename }} </a> </b></li>
-            {% endif %}
-        {% endif %}
-    {% endfor %}
+  {% for chart in all_charts %}
+    {% unless chart.version contains "-" %}
+    <li>
+      <a href="{{ chart.urls[0] }}">
+          {{ chart.name }}-{{ chart.version }}
+      </a>
+      <span class='date'>{{ chart.created | date_to_long_string }}</span>
+    </li>
+    {% endunless %}
+  {% endfor %}
 </ul>
 
 <h2>Development releases: JupyterHub</h2>
 <ul>
-    {% for chart in site.static_files reversed %}
-        {% if chart.extname == '.tgz' and chart.basename contains "jupyterhub" %}
-            <li>
-            {% assign chart_splitted = chart.basename | split: "-" %}
-            {% if chart_splitted.size == 2 %}<b>{% endif %}
-            <a href="{{ site.url }}/helm-chart{{ chart.path }}"> {{ chart.basename }} </a>
-            {% if chart_splitted.size == 2 %}</b>{% endif %}
-            </li>
-        {% endif %}
-    {% endfor %}
+  {% for chart in jupyterhub %}
+    <li>
+      {% unless chart.version contains "-" %}<b>{% endunless %}
+      <a href="{{ chart.urls[0] }}">
+          {{ chart.name }}-{{ chart.version }}
+      </a>
+      <span class='date'>{{ chart.created | date_to_long_string }}</span>
+      {% unless chart.version contains "-" %}</b>{% endunless %}
+    </li>
+  {% endfor %}
 </ul>
 <h2>Development releases: BinderHub</h2>
 <ul>
-    {% for chart in site.static_files reversed %}
-        {% if chart.extname == '.tgz' and chart.basename contains "binderhub" %}
-            <li>
-            {% assign chart_splitted = chart.basename | split: "-" %}
-            {% if chart_splitted.size == 2 %}<b>{% endif %}
-            <a href="{{ site.url }}/helm-chart{{ chart.path }}"> {{ chart.basename }} </a>
-            {% if chart_splitted.size == 2 %}</b>{% endif %}
-            </li>
-        {% endif %}
-    {% endfor %}
+  {% for chart in binderhub %}
+    <li>
+      {% unless chart.version contains "-" %}<b>{% endunless %}
+      <a href="{{ chart.urls[0] }}">
+          {{ chart.name }}-{{ chart.version }}
+      </a>
+      <span class='date'>{{ chart.created | date_to_long_string }}</span>
+      {% unless chart.version contains "-" %}</b>{% endunless %}
+    </li>
+  {% endfor %}
 </ul>
 </body>
 </html>
