@@ -130,3 +130,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+_site
+Gemfile.lock
