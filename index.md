@@ -26,7 +26,7 @@
       </a>
       </td>
       <td>
-      <span class='date'>{{ chart.created | date_to_long_string }}</span>
+      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
       </td>
     </tr>
     {% endunless %}
@@ -49,7 +49,7 @@
       {% unless chart.version contains "-" %}</b>{% endunless %}
       </td>
       <td>
-      <span class='date'>{{ chart.created | date_to_long_string }}</span>
+      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
       </td>
     </tr>
   {% endfor %}
@@ -70,7 +70,7 @@
       {% unless chart.version contains "-" %}</b>{% endunless %}
       </td>
       <td>
-      <span class='date'>{{ chart.created | date_to_long_string }}</span>
+      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
       </td>
     </tr>
   {% endfor %}
