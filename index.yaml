@@ -811,6 +811,14 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.6.0-d359d98.tgz
     version: v0.6.0-d359d98
   - apiVersion: v1
+    created: 2018-01-13T02:05:43.201427852Z
+    description: Multi-user Jupyter installation
+    digest: ab0f50bd9ec3c3268b104ff4e4304b6d9067e90d8230e71a7a1b7994e885d34a
+    name: jupyterhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.6.0-bb30f17.tgz
+    version: v0.6.0-bb30f17
+  - apiVersion: v1
     created: 2018-01-13T02:01:40.538172989Z
     description: Multi-user Jupyter installation
     digest: 47ae2cdec2d362df2087fcf3fdbfe307413ec1e721ab19590a50f27c0a16bb3d
@@ -2026,4 +2034,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz
     version: v0.3
-generated: 2018-01-13T02:01:40.536284141Z
+generated: 2018-01-13T02:05:43.199425831Z
