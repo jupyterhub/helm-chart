@@ -1290,6 +1290,14 @@ entries:
     - https://jupyterhub.github.io/helm-chart/binderhub-0.1.0-04022d2.tgz
     version: 0.1.0-04022d2
   - apiVersion: v1
+    created: 2018-05-21T22:15:36.572797824Z
+    description: A helm chart to install Binder
+    digest: d9e4337e56eee8f9a5931f75b2b2003b6c02e3104a6ac185ea00520a0d414f42
+    name: binderhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/binderhub-0.1.0-0144a36.tgz
+    version: 0.1.0-0144a36
+  - apiVersion: v1
     created: 2017-10-02T21:46:55Z
     description: A helm chart to install Binder
     digest: ee6cdde8f3f9ad49cf84bde7f27676bbe63fa9aeceec503ac68a304fbe2c7df9
@@ -3711,4 +3719,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz
     version: v0.3
-generated: 2018-05-18T17:59:00.099795047Z
+generated: 2018-05-21T22:15:36.568604449Z
