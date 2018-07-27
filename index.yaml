@@ -1852,6 +1852,20 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.7-b78ba9c.tgz
     version: v0.7-b78ba9c
   - appVersion: v0.8.1
+    created: 2018-07-27T20:31:12.311266498Z
+    description: Multi-user Jupyter installation
+    digest: 2f8dc440c7a884999f9660ca33512ae5c652bdbb5aa215d0c1a16b777ecb5f21
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    kubeVersion: '>=1.8.0-0'
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    tillerVersion: '>=2.7.0-0'
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.7-b788650.tgz
+    version: v0.7-b788650
+  - appVersion: v0.8.1
     created: 2018-04-18T15:22:49.836151335Z
     description: Multi-user Jupyter installation
     digest: deef36a1c332ef9fc109ad87096719d92a080abcca53cf44669130a761d1207e
@@ -4454,4 +4468,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz
     version: v0.3
-generated: 2018-07-26T14:52:21.04296623Z
+generated: 2018-07-27T20:31:12.308773727Z
