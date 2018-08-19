@@ -18,7 +18,7 @@
     <th>date</th>
   </tr>
   {% for chart in all_charts %}
-    {% unless chart.version contains "-" %}
+    {% unless chart.version contains "-" or chart.version contains "v" %}
     <tr>
       <td>
       <a href="{{ chart.urls[0] }}">
