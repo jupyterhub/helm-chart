@@ -18,11 +18,11 @@
     <th>date</th>
   </tr>
   {% for chart in all_charts %}
-    {% unless chart.version contains "-" or chart.version contains "v" %}
+    {% unless chart.version contains "-"%}
     <tr>
       <td>
       <a href="{{ chart.urls[0] }}">
-          {{ chart.name }}-{{ chart.version }}
+          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
       </a>
       </td>
       <td>
@@ -44,7 +44,7 @@
       <td>
       {% unless chart.version contains "-" %}<b>{% endunless %}
       <a href="{{ chart.urls[0] }}">
-          {{ chart.name }}-{{ chart.version }}
+          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
       </a>
       {% unless chart.version contains "-" %}</b>{% endunless %}
       </td>
@@ -65,7 +65,7 @@
       <td>
       {% unless chart.version contains "-" %}<b>{% endunless %}
       <a href="{{ chart.urls[0] }}">
-          {{ chart.name }}-{{ chart.version }}
+          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
       </a>
       {% unless chart.version contains "-" %}</b>{% endunless %}
       </td>
