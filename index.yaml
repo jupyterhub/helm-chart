@@ -410,6 +410,14 @@ entries:
     - https://jupyterhub.github.io/helm-chart/binderhub-0.1.0-af0d09e.tgz
     version: 0.1.0-af0d09e
   - apiVersion: v1
+    created: 2018-08-23T13:49:19.928259529Z
+    description: A helm chart to install Binder
+    digest: 8a065269257c9e85c50cb8fe8ade2e981a952da84d333f0f81d4dd4b322bd50b
+    name: binderhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/binderhub-0.1.0-abe395e.tgz
+    version: 0.1.0-abe395e
+  - apiVersion: v1
     created: 2017-10-02T21:03:23Z
     description: A helm chart to install Binder
     digest: 563d2477c9e93f85ba4e02c5d08c09458d0ab4dbda60e3feb34323fe791547e4
@@ -1643,7 +1651,6 @@ entries:
     digest: 4d8871f04f6c460b86678c3295b956ca529eaf6361ab12d67cbf405a6b0cf1e9
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -1986,7 +1993,6 @@ entries:
     digest: 1e9947cafb97ee6dd915cf3ec69e47ae91148949fd7587107db08b7e4243ff54
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -2047,7 +2053,6 @@ entries:
     digest: 4f142002400c77a02513d408f63da53c02d56576129603d2fde63c8563da777c
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -2100,7 +2105,6 @@ entries:
     digest: 48569c5088678e78153527969cff4f08ef5ea91914effedf7f4f757476d6f9ac
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -2500,7 +2504,6 @@ entries:
     digest: 27832a68ac8a5703cf4bad5f39afc76f0b283d3cf170e55b1d7dcdb2c0a38530
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -2891,7 +2894,6 @@ entries:
     digest: 8d0956c99828f51f75cd9db189bb0f64288ef32c930ecf3e5e7cdf7eca0784f6
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -2989,7 +2991,6 @@ entries:
     digest: f2e7a24286c7867ebc2f7c0097e626a46b70e59dd5710cb6f08ce8dd47f2bdfc
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -3016,7 +3017,6 @@ entries:
     digest: 5b671c3b46db064f78211afe94b12133f3897e6a74add14b86de23d24d6dd70b
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -3182,7 +3182,6 @@ entries:
     digest: cc135aeff948bc853d655a21f6d67f2c356b2df07bd31564d61b5812eeae7e3a
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
-    kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -4988,4 +4987,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz
     version: v0.3
-generated: 2018-08-22T12:32:29.091967812Z
+generated: 2018-08-23T13:49:19.924674206Z
