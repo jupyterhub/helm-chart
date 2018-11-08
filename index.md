@@ -1,11 +1,18 @@
 <html>
 <body>
 
-<p>See installation instructions at:</p>
+<p>See installation instructions for:</p>
 
 <ul>
 <li><a href="https://zero-to-jupyterhub.readthedocs.io">JupyterHub</a></li>
 <li><a href="https://binderhub.readthedocs.io">BinderHub</a></li>
+</ul>
+
+Jump to:
+
+<ul>
+<li><a href="#development-releases-jupyterhub">Development Releases: JupyterHub</a></li>
+<li><a href="#development-releases-binderhub">Development Releases: BinderHub</a></li>
 </ul>
 
 <h2>Stable releases</h2>
