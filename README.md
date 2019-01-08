@@ -16,6 +16,21 @@ historical charts as well.
 
 [Website with an index of all charts](https://jupyterhub.github.io/helm-chart/)
 
+## JupyterHub versions in each chart
+
+Each JupyterHub Helm chart installs a specific version of components in the Jupyter
+stack. Use the following table to determine which version of each component is
+installed.
+
+| Helm Chart version | JupyterHub version |
+| --- | --- |
+| 0.7.0	| XXX |
+| 0.6 | XXX |
+| 0.5.0 | XXX |
+| 0.4 | XXX |
+| 0.3.1 | XXX |
+| 0.3 | XXX |
+
 ## Usage
 
 Please refer to the following documentation for instructions on the
