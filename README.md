@@ -16,21 +16,24 @@ historical charts as well.
 
 [Website with an index of all charts](https://jupyterhub.github.io/helm-chart/)
 
-## JupyterHub versions in each chart
+## Versions coupled to each chart release
 
-Each JupyterHub Helm chart installs a specific version of components in the Jupyter
-stack. Use the following table to determine which version of each component is
-installed.
+Each JupyterHub Helm chart release utilizes a specific version of JupyterHub and
+requires at least a certain Kubernetes version and Helm version to function
+properly.
 
-| Helm Chart version | JupyterHub version |
-| ------ | ----- |
-| 0.8.0  | 0.9.4 |
-| 0.7.0  | 0.9.2 |
-| v0.6   | 0.8.1 |
-| v0.5   | 0.8.1 |
-| v0.4   | 0.7.2 |
-| v0.3.1 | 0.7.2 |
-| v0.3   | 0.7.2 |
+For detailed information about what libraries are available alongside JupyterHub
+in the hub pod, see the associated `Dockerfile` or `requirements.txt`.
+
+| Helm Chart v. | JupyterHub v. | Req. Kubernetes v. | Req. Helm v. | Associated files
+| ------ | ------ | ------ | ------- | ------ |
+| 0.8.0  | 0.9.4  | 1.11+  | 2.11.0+ | [0.8.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.8.0/images/hub) |
+| 0.7.0  | 0.9.2  | 1.8+   | 2.9.0+  | [0.7.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.7.0/images/hub) |
+| v0.6   | 0.8.1  | ?      | ?       | [v0.6](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.6/images/hub) |
+| v0.5   | 0.8.1  | ?      | ?       | [v0.5](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.5/images/hub) |
+| v0.4   | 0.7.2  | ?      | ?       | [v0.4](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.4/images/hub) |
+| v0.3.1 | 0.7.2  | ?      | ?       | [v0.3.1](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.3.1/images/hub) |
+| v0.3   | 0.7.2  | ?      | ?       | [v0.3](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.3/images/hub) |
 
 ## Usage
 
