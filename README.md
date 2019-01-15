@@ -23,13 +23,14 @@ stack. Use the following table to determine which version of each component is
 installed.
 
 | Helm Chart version | JupyterHub version |
-| --- | --- |
-| 0.7.0	| XXX |
-| 0.6 | XXX |
-| 0.5.0 | XXX |
-| 0.4 | XXX |
-| 0.3.1 | XXX |
-| 0.3 | XXX |
+| ------ | ----- |
+| 0.8.0  | 0.9.4 |
+| 0.7.0  | 0.9.2 |
+| v0.6   | 0.8.1 |
+| v0.5   | 0.8.1 |
+| v0.4   | 0.7.2 |
+| v0.3.1 | 0.7.2 |
+| v0.3   | 0.7.2 |
 
 ## Usage
 
