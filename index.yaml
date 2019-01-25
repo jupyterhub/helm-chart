@@ -2985,7 +2985,7 @@ entries:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-0.8-3bdff5d.tgz
     version: 0.8-3bdff5d
   - appVersion: 0.9.4
-    created: 2019-01-25T11:40:54.95596119Z
+    created: 2019-01-25T15:02:17.852024668Z
     description: Multi-user Jupyter installation
     digest: dc878b05db4bd2aad4c9fd140e7c278c9e722338b64f16ddc9f623a214c14750
     home: https://z2jh.jupyter.org
@@ -7011,4 +7011,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz
     version: v0.3
-generated: 2019-01-25T11:40:54.952617324Z
+generated: 2019-01-25T15:02:17.847790337Z
