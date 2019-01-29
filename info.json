@@ -1,0 +1,38 @@
+---
+layout: none
+---
+{%- assign jupyterhub = site.data.index.entries.jupyterhub | sort: 'created' | reverse -%}
+{%- assign binderhub = site.data.index.entries.binderhub | sort: 'created' | reverse -%}
+{%- assign jh_latest = jupyterhub | first -%}
+{%- assign bh_latest = binderhub | first -%}
+
+{%- capture "jh_stable_version" -%}
+{%- for chart in jupyterhub -%}
+    {%- unless chart.version contains "-" -%}
+        {{ chart.version }};
+    {%- endunless -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign jh_stable_version = jh_stable_version | split: ";" | first -%}
+
+{%- capture "bh_stable_version" -%}
+{%- for chart in binderhub -%}
+    {%- unless chart.version contains "-" -%}
+        {{ chart.version }};
+    {%- endunless -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign bh_stable_version = bh_stable_version | split: ";" | first -%}
+
+{
+    "jupyterhub":
+        {
+            "latest": "{{ jh_latest.version }}",
+            "stable": "{{ jh_stable_version }}"
+        },
+    "binderhub":
+        {
+            "latest": "{{ bh_latest.version }}",
+            "stable": "{{ bh_stable_version }}"
+        }
+}
