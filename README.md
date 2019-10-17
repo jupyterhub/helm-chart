@@ -1,10 +1,12 @@
 # [helm-chart](https://github.com/jupyterhub/helm-chart)
 
-[![Join the chat at https://gitter.im/jupyterhub/binder](https://badges.gitter.im/jupyterhub/binder.svg)](https://gitter.im/jupyterhub/binder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue.svg)](https://github.com/jupyterhub/helm-chart/issues)
+[![Discourse](https://img.shields.io/badge/help_forum-discourse-blue.svg)](https://discourse.jupyter.org/c/jupyterhub)
+[![Gitter](https://img.shields.io/badge/social_chat-gitter-blue.svg)](https://gitter.im/jupyterhub/jupyterhub)
 
 This repository stores Helm chart tarballs for BinderHub and JupyterHub. While
 this repo is a store of Helm chart tarballs, **actual development** of the Helm
-charts takes place in the [BinderHub][] and [Zero to JupyterHub][] repos. These
+charts takes place in the [BinderHub][] and [Zero to JupyterHub K8s][] repos. These
 [Helm][] charts are used with [Kubernetes][] deployments of [BinderHub][] and
 [JupyterHub][].
 
@@ -41,15 +43,16 @@ Please refer to the following documentation for instructions on the
 use of these helm charts:
 
 - [BinderHub documentation](https://binderhub.readthedocs.io)
-- [Zero to JupyterHub documentation **v0.4-doc**](http://zero-to-jupyterhub.readthedocs.io/en/v0.4-doc/)
+- [Zero to JupyterHub documentation](https://z2jh.jupyter.org)
 
 
 ## Links to related repos
 
-- [BinderHub][]
-- [Zero to JupyterHub][]
 - [JupyterHub][]
-- [repo2docker](https://github.com/jupyter/repo2docker)
+- [Zero to JupyterHub K8s][]
+- [KubeSpawner][]
+- [BinderHub][]
+- [repo2docker][]
 
 ## Questions
 
@@ -58,6 +61,8 @@ Visit us to
 
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
-[BinderHub]: https://github.com/jupyterhub/binderhub
 [JupyterHub]: https://github.com/jupyterhub/jupyterhub
-[Zero to JupyterHub]: https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+[Zero to JupyterHub K8s]: https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+[KubeSpawner]: https://github.com/jupyterhub/kubespawner
+[BinderHub]: https://github.com/jupyterhub/binderhub
+[repo2docker]: https://github.com/jupyter/repo2docker
