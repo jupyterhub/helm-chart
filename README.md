@@ -13,7 +13,7 @@ charts takes place in the [BinderHub][] and [Zero to JupyterHub K8s][] repos. Th
 ## Charts
 
 The [`gh-pages` branch of this repo](https://github.com/jupyterhub/helm-chart/tree/gh-pages)
-contains the latest helm charts for BinderHub and JupyterHub. It also contains
+contains the latest Helm charts for BinderHub and JupyterHub. It also contains
 historical charts as well.
 
 [Website with an index of all charts](https://jupyterhub.github.io/helm-chart/)
@@ -53,11 +53,6 @@ use of these helm charts:
 - [KubeSpawner][]
 - [BinderHub][]
 - [repo2docker][]
-
-## Questions
-
-Visit us to
-[![Join the chat at https://gitter.im/jupyterhub/binder](https://badges.gitter.im/jupyterhub/binder.svg)](https://gitter.im/jupyterhub/binder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
 
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
