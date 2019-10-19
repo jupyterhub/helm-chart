@@ -84,18 +84,21 @@ Helm Chart v. | JupyterHub Helm chart v.  | BinderHub Python package v. | Repo2D
 ...           | ...                       | ...                         | ...
 
 
-## Development of the GitHub pages
+## Local development of GitHub page
 
-To work with development of the GitHub pages of this repostiory, some background
+### Background knowledge
+
+To locally development the GitHub page for this repostiory, some background
 understanding can be useful. A good start is to read [Helm's documentation about
 Helm chart repositories](https://helm.sh/docs/chart_repository). After that,
 keep this in mind.
 
 - [GitHub Pages][] relies on [Jekyll][] that in turn use the [Liquid][] templating
-language to generate and host static web pages.
+  language (with some [additions](https://jekyllrb.com/docs/liquid/)) to
+  generate and host static web pages.
 - Everything that is to be used to generate [the GitHub
-Page](https://jupyterhub.github.io/helm-chart/) is required to reside at the
-[`gh-pages` branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages).
+  Page](https://jupyterhub.github.io/helm-chart/) is required to reside at the
+  [`gh-pages` branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages).
 - Templates get data from a [Jekyll Data
   Folder](https://jekyllrb.com/docs/datafiles/#the-data-folder) that you can
   [inspect here](https://github.com/jupyterhub/helm-chart/tree/gh-pages/_data).
@@ -104,7 +107,7 @@ Page](https://jupyterhub.github.io/helm-chart/) is required to reside at the
   which is a [important file for a Helm chart
   repository](https://helm.sh/docs/chart_repository/#the-index-file).
 - [index.md](https://github.com/jupyterhub/helm-chart/blob/gh-pages/index.md)
-  file will be converted to `index.html` by Jekyll and act as a Human readable
+  file will be converted to index.html by Jekyll and act as a Human readable
   page.
 - [_config.yml](https://github.com/jupyterhub/helm-chart/blob/gh-pages/_config.yml)
   is a [Jekyll configuration file](https://jekyllrb.com/docs/configuration/).
@@ -115,8 +118,33 @@ Page](https://jupyterhub.github.io/helm-chart/) is required to reside at the
   is a way for us to provide easy access to information from the templates
   underlying data source, the
   [index.yaml](https://github.com/jupyterhub/helm-chart/blob/gh-pages/index.yaml)
-  file. We are for example using it to create the badges you find in this readme
-  about the latest stable/pre/dev release.
+  file. We are for example using the rendered info.json to create the badges you
+  find in this readme about the latest stable/pre/dev release.
+
+### Setting up for local development
+
+There are probably different ways to go about this, but sometimes what matters
+is to have one at all. Doing the following was tested by @consideRatio
+2019-10-19 on Ubuntu 19.04.
+
+1. Install Ruby, Gem, and Bundler.
+
+   1. Install [`rbenv`](https://github.com/rbenv/rbenv#installation).
+   1. Install the [rbenv-build plugin](https://github.com/rbenv/ruby-build#installation) to allows you to use `rbenv install`.
+   1. Run `rbenv install <version>` with the [latest stable version](https://www.ruby-lang.org/en/downloads/).
+   1. Run `rbenv global <version>`.
+   1. Verify you can run `ruby -v` and `gem -v`.
+   1. Run `gem install bundler` to work with Gemfiles etc.
+
+1. Install Jekyll.
+
+   1. Checkout the `gh-pages` branch with `git checkout gh-pages`.
+   1. Run `bundle install`
+
+1. Start a local webserver.
+
+   1. Run `bundle exec jekyll serve`.
+   1. Visit http://localhost:4000.
 
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
