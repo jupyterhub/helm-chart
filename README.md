@@ -38,7 +38,7 @@ helm install jupyterhub/<helm chart name> --version <helm chart version>
 ### The JupyterHub Helm chart
 
 [![Latest stable release](https://img.shields.io/badge/dynamic/json.svg?label=stable&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
-[![Latest pre-release](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
+[![Latest pre-release](https://img.shields.io/badge/dynamic/json.svg?label=pre&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
 [![Latest development release](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.latest&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
 
 Each JupyterHub Helm chart release utilizes a specific version of [JupyterHub][]
