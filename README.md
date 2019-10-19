@@ -10,6 +10,8 @@ charts for [BinderHub][] and [Zero to JupyterHub K8s][]. These packaged Helm
 charts are made available as a valid [Helm chart
 repository](https://helm.sh/docs/chart_repository/) on [an automatically updated
 website](https://jupyterhub.github.io/helm-chart/) thanks to [GitHub Pages][].
+We use [chartpress][] to add package and add Helm charts to this Helm chart
+repository.
 
 
 ## Usage
@@ -148,6 +150,7 @@ is to have one at all. Doing the following was tested by @consideRatio
 
 [Kubernetes]: https://kubernetes.io
 [Helm]: https://helm.sh
+[Chartpress]: https://github.com/jupyterhub/chartpress
 [JupyterHub]: https://github.com/jupyterhub/jupyterhub
 [Zero to JupyterHub K8s]: https://github.com/jupyterhub/zero-to-jupyterhub-k8s
 [KubeSpawner]: https://github.com/jupyterhub/kubespawner
