@@ -1,6 +1,52 @@
 ---
 layout: none
 ---
+{%- comment -%}
+ABOUT:
+
+This is a Liquid template allowing us to render to info.json
+based on content found in index.yaml. It is put in place in
+order to allow a img.shields.io badge dynamically render info
+about the latest release of various kinds.
+
+Here is a set of example badges in Markdown for the JupyterHub
+Helm chart:
+
+    [![Latest stable release](https://img.shields.io/badge/dynamic/json.svg?label=stable&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
+    [![Latest pre release](https://img.shields.io/badge/dynamic/json.svg?label=pre&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
+    [![Latest dev release](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.dev&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
+
+Here is an example rendering of this file:
+
+{
+    jupyterhub: {
+        stable: "0.8.2",
+        pre: "0.8.0-beta.1",
+        dev: "0.9.0-alpha.1.020.c70f016",
+        latest: "0.9.0-alpha.1.020.c70f016"
+    },
+    binderhub: {
+        stable: "",
+        pre: "",
+        dev: "0.2.0-d2e3b8b",
+        latest: "0.2.0-d2e3b8b"
+    }
+}
+{%- endcomment -%}
+
+{%- comment -%}
+IMPLEMENTATION LOGIC
+
+all:
+    pick the latest created chart...
+stable:
+    ... with a version without a "-" character in it
+pre:
+    ... with a version with a "-" character in it and a single "." character
+dev aka. latest:
+    ... just pick the latest version.
+{%- endcomment -%}
+
 {%- assign jupyterhub = site.data.index.entries.jupyterhub | sort: 'created' | reverse -%}
 {%- assign binderhub = site.data.index.entries.binderhub | sort: 'created' | reverse -%}
 {%- assign jh_latest = jupyterhub | first -%}
@@ -15,6 +61,18 @@ layout: none
 {%- endcapture -%}
 {%- assign jh_stable_version = jh_stable_version | split: ";" | first -%}
 
+{%- capture "jh_pre_version" -%}
+{%- for chart in jupyterhub -%}
+    {%- if chart.version contains "-" -%}
+        {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
+        {%- if tmp == 2 -%}
+            {{ chart.version }};
+        {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign jh_pre_version = jh_pre_version | split: ";" | first -%}
+
 {%- capture "bh_stable_version" -%}
 {%- for chart in binderhub -%}
     {%- unless chart.version contains "-" -%}
@@ -24,15 +82,31 @@ layout: none
 {%- endcapture -%}
 {%- assign bh_stable_version = bh_stable_version | split: ";" | first -%}
 
+{%- capture "bh_pre_version" -%}
+{%- for chart in binderhub -%}
+    {%- if chart.version contains "-" -%}
+        {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
+        {%- if tmp > 2 -%}
+            {{ chart.version }};
+        {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign bh_pre_version = bh_pre_version -%}
+
 {
     "jupyterhub":
         {
-            "latest": "{{ jh_latest.version }}",
-            "stable": "{{ jh_stable_version }}"
+            "stable": "{{ jh_stable_version }}",
+            "pre": "{{ jh_pre_version }}",
+            "dev": "{{ jh_latest.version }}",
+            "latest": "{{ jh_latest.version }}"
         },
     "binderhub":
         {
-            "latest": "{{ bh_latest.version }}",
-            "stable": "{{ bh_stable_version }}"
+            "stable": "{{ bh_stable_version }}",
+            "pre": "{{ bh_pre_version }}",
+            "dev": "{{ bh_latest.version }}",
+            "latest": "{{ bh_latest.version }}"
         }
 }
