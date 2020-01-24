@@ -3004,9 +3004,9 @@ entries:
     version: 0.9-c6a7449
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-01-24T19:09:30.76695162Z"
+    created: "2020-01-24T22:18:27.174318583Z"
     description: Multi-user Jupyter installation
-    digest: 1c40bf9acbceae8a8168cca8c97c96fd9497437994155d90f2dcb42374f12cfa
+    digest: e27b7e4c893196c1834ddfee5eb63bf51cdd360b77ec3f85e30d08ec353b9a09
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
     kubeVersion: '>=1.11.0-0'
@@ -9855,4 +9855,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/jupyterhub-v0.3.tgz
     version: v0.3
-generated: "2020-01-24T19:09:30.763051476Z"
+generated: "2020-01-24T22:18:27.171230737Z"
