@@ -54,6 +54,7 @@ folder](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/tree/master/images)
 
 Helm Chart v. | JupyterHub v. | Req. Kubernetes v. | Req. Helm v. | Associated files (KubeSpawner etc.)
 ------------- | ------------- | ------------------ | ------------ | -
+0.9.0         | 1.1.0         | 1.11+              | 2.11.0+      | [0.9.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.9.0/images/hub)
 0.8.2         | 0.9.6         | 1.11+              | 2.11.0+      | [0.8.2](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.8.2/images/hub)
 0.7.0         | 0.9.2         | 1.8+               | 2.9.0+       | [0.7.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.7.0/images/hub)
 v0.6          | 0.8.1         | ?                  | ?            | [v0.6](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.6/images/hub)
