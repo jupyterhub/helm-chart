@@ -3,7 +3,7 @@ description: This repository stores Helm chart tarballs for BinderHub and Jupyte
 
 theme: jekyll-theme-minimal
 
-repository: jupyterhub/zero-to-jupyterhub
+repository: jupyterhub/zero-to-jupyterhub-k8s
 
 stablecharts:
   - jupyterhub
