@@ -99,7 +99,7 @@ dev aka. latest:
 
 
 {%- capture "pebble_stable_version" -%}
-{%- for chart in binderhub -%}
+{%- for chart in pebble -%}
     {%- unless chart.version contains "-" -%}
         {{ chart.version }};
     {%- endunless -%}
@@ -108,7 +108,7 @@ dev aka. latest:
 {%- assign pebble_stable_version = pebble_stable_version | split: ";" | first -%}
 
 {%- capture "pebble_pre_version" -%}
-{%- for chart in binderhub -%}
+{%- for chart in pebble -%}
     {%- if chart.version contains "-" -%}
         {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
         {%- if tmp > 2 -%}
