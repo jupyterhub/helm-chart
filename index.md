@@ -1,86 +1,39 @@
-<html>
-<body>
+## See installation instructions for:
 
-<p>See installation instructions for:</p>
-
-<ul>
-<li><a href="https://zero-to-jupyterhub.readthedocs.io">JupyterHub</a></li>
-<li><a href="https://binderhub.readthedocs.io">BinderHub</a></li>
-</ul>
+- [JupyterHub](https://zero-to-jupyterhub.readthedocs.io)
+- [BinderHub](https://binderhub.readthedocs.io)
 
 Jump to:
+{% for chartmap in site.data.index.entries -%}
+- [Development Releases: {{ chartmap[0] }}](#development-releases-{{ chartmap[0] | slugify }})
+{% endfor %}
 
-<ul>
-<li><a href="#development-releases-jupyterhub">Development Releases: JupyterHub</a></li>
-<li><a href="#development-releases-binderhub">Development Releases: BinderHub</a></li>
-</ul>
 
-<h2>Stable releases</h2>
-{% assign jupyterhub = site.data.index.entries.jupyterhub | sort: 'created' | reverse %}
-{% assign binderhub = site.data.index.entries.binderhub | sort: 'created' | reverse %}
-{% assign all_charts = jupyterhub | concat: binderhub %}
-<table>
-  <tr>
-    <th>release</th>
-    <th>date</th>
-  </tr>
-  {% for chart in all_charts %}
-    {% unless chart.version contains "-"%}
-    <tr>
-      <td>
-      <a href="{{ chart.urls[0] }}">
-          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
-      </a>
-      </td>
-      <td>
-      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
-      </td>
-    </tr>
-    {% endunless %}
-  {% endfor %}
-</table>
+## Stable releases
 
-<h2>Development releases: JupyterHub</h2>
-<table>
-  <tr>
-    <th>release</th>
-    <th>date</th>
-  </tr>
-  {% for chart in jupyterhub %}
-    <tr>
-      <td>
-      {% unless chart.version contains "-" %}<b>{% endunless %}
-      <a href="{{ chart.urls[0] }}">
-          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
-      </a>
-      {% unless chart.version contains "-" %}</b>{% endunless %}
-      </td>
-      <td>
-      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
-      </td>
-    </tr>
+{% for chartmap in site.data.index.entries %}
+  {% if site.stablecharts contains chartmap[0] %}
+### {{ chartmap[0] }}
+
+| Release | Date | Application version |
+|---------|------|---------------------|
+  {%- assign sortedcharts = chartmap[1] | sort: 'created' | reverse -%}
+    {%- for chart in sortedcharts -%}
+      {%- unless chart.version contains "-" %}
+| [{{ chart.name }}-{{ chart.version | remove_first: "v" }}]({{ chart.urls[0] }}) | {{ chart.created | date_to_rfc822 }} | {{ chart.appVersion }} |
+      {%- endunless -%}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+
+{% for chartmap in site.data.index.entries %}
+### Development releases: {{ chartmap[0] }}
+
+| Release | Date | Application version |
+|---------|------|---------------------|
+  {% assign sortedcharts = chartmap[1] | sort: 'created' | reverse -%}
+  {% for chart in sortedcharts -%}
+| [{{ chart.name }}-{{ chart.version | remove_first: "v" }}]({{ chart.urls[0] }}) | {{ chart.created | date_to_rfc822 }} | {{ chart.appVersion }} |
   {% endfor %}
-</table>
-<h2>Development releases: BinderHub</h2>
-<table>
-  <tr>
-    <th>release</th>
-    <th>date</th>
-  </tr>
-  {% for chart in binderhub %}
-    <tr>
-      <td>
-      {% unless chart.version contains "-" %}<b>{% endunless %}
-      <a href="{{ chart.urls[0] }}">
-          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
-      </a>
-      {% unless chart.version contains "-" %}</b>{% endunless %}
-      </td>
-      <td>
-      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
-      </td>
-    </tr>
-  {% endfor %}
-</table>
-</body>
-</html>
+{% endfor %}
