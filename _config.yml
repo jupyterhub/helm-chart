@@ -7,3 +7,4 @@ repository: jupyterhub/zero-to-jupyterhub-k8s
 
 stablecharts:
   - jupyterhub
+  - pebble
