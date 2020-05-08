@@ -49,8 +49,11 @@ dev aka. latest:
 
 {%- assign jupyterhub = site.data.index.entries.jupyterhub | sort: 'created' | reverse -%}
 {%- assign binderhub = site.data.index.entries.binderhub | sort: 'created' | reverse -%}
+{%- assign pebble = site.data.index.entries.pebble | sort: 'created' | reverse -%}
 {%- assign jh_latest = jupyterhub | first -%}
 {%- assign bh_latest = binderhub | first -%}
+{%- assign pebble_latest = pebble | first -%}
+
 
 {%- capture "jh_stable_version" -%}
 {%- for chart in jupyterhub -%}
@@ -94,6 +97,28 @@ dev aka. latest:
 {%- endcapture -%}
 {%- assign bh_pre_version = bh_pre_version -%}
 
+
+{%- capture "pebble_stable_version" -%}
+{%- for chart in binderhub -%}
+    {%- unless chart.version contains "-" -%}
+        {{ chart.version }};
+    {%- endunless -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign pebble_stable_version = pebble_stable_version | split: ";" | first -%}
+
+{%- capture "pebble_pre_version" -%}
+{%- for chart in binderhub -%}
+    {%- if chart.version contains "-" -%}
+        {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
+        {%- if tmp > 2 -%}
+            {{ chart.version }};
+        {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign pebble_pre_version = pebble_pre_version -%}
+
 {
     "jupyterhub":
         {
@@ -108,5 +133,12 @@ dev aka. latest:
             "pre": "{{ bh_pre_version }}",
             "dev": "{{ bh_latest.version }}",
             "latest": "{{ bh_latest.version }}"
+        },
+    "pebble":
+        {
+            "stable": "{{ pebble_stable_version }}",
+            "pre": "{{ pebble_pre_version }}",
+            "dev": "{{ pebble_latest.version }}",
+            "latest": "{{ pebble_latest.version }}"
         }
 }
