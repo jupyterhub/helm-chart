@@ -2986,6 +2986,21 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: 1.1.0
+    created: "2020-05-16T12:44:19.340513474Z"
+    description: Multi-user Jupyter installation
+    digest: 09ff2586ca9273caec9fd557e04fa9d1f6bc05a179883a33c650d9d456f37323
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    kubeVersion: '>=1.11.0-0'
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    tillerVersion: '>=2.11.0-0'
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.9.0-n065.h1533252.tgz
+    version: 0.9.0-n065.h1533252
+  - apiVersion: v1
+    appVersion: 1.1.0
     created: "2020-05-16T11:00:10.377655405Z"
     description: Multi-user Jupyter installation
     digest: c0bbb72577202a378a2ef57e3843915d9fd01355004e2f06cbca9eac67961dca
@@ -5565,4 +5580,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2020-05-16T11:00:10.374290707Z"
+generated: "2020-05-16T12:44:19.336890568Z"
