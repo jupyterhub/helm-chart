@@ -2994,9 +2994,9 @@ entries:
     version: 0.9.0
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-05-16T12:44:19.340513474Z"
+    created: "2020-05-22T00:56:10.843025246Z"
     description: Multi-user Jupyter installation
-    digest: 09ff2586ca9273caec9fd557e04fa9d1f6bc05a179883a33c650d9d456f37323
+    digest: 1f18c18049101604065daed1744bfa1415157153871191e73fb48e70ab6413f6
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
     kubeVersion: '>=1.11.0-0'
@@ -5588,4 +5588,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2020-05-20T10:32:26.55956452Z"
+generated: "2020-05-22T00:56:10.841072547Z"
