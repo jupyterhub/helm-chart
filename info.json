@@ -19,18 +19,27 @@ Helm chart:
 Here is an example rendering of this file:
 
 {
-    jupyterhub: {
-        stable: "0.8.2",
-        pre: "0.8.0-beta.1",
-        dev: "0.9.0-alpha.1.020.c70f016",
-        latest: "0.9.0-alpha.1.020.c70f016"
-    },
-    binderhub: {
-        stable: "",
-        pre: "",
-        dev: "0.2.0-d2e3b8b",
-        latest: "0.2.0-d2e3b8b"
-    }
+    "jupyterhub":
+        {
+            "stable": "0.10.1",
+            "pre": "0.10.2-beta.1",
+            "dev": "0.10.2-beta.1.n008.ha16f87e6",
+            "latest": "0.10.2-beta.1.n008.ha16f87e6"
+        },
+    "binderhub":
+        {
+            "stable": "",
+            "pre": "0.2.0-072.544c0b1",
+            "dev": "0.2.0-n361.h6f57706",
+            "latest": "0.2.0-n361.h6f57706"
+        },
+    "pebble":
+        {
+            "stable": "0.2.2",
+            "pre": "0.2.2",
+            "dev": "0.2.2-n000.hefa0ee7",
+            "latest": "0.2.2-n000.hefa0ee7"
+        }
 }
 {%- endcomment -%}
 
@@ -66,15 +75,21 @@ dev aka. latest:
 
 {%- capture "jh_pre_version" -%}
 {%- for chart in jupyterhub -%}
+    {%- assign dots_count_after_dash = chart.version | split: "-" | shift | first | split: "." | size | minus: 1 -%}
+    {%- assign first_char_after_dash = chart.version | split: "-" | shift | first | slice: 0 -%}
     {%- if chart.version contains "-" -%}
-        {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
-        {%- if tmp == 2 -%}
-            {{ chart.version }};
+        {%- if dots_count_after_dash == 1 -%}
+            {%- if first_char_after_dash != "n" -%}
+                {{ chart.version }};
+            {%- endif -%}
         {%- endif -%}
+    {%- else -%}
+        {{ chart.version }};
     {%- endif -%}
 {%- endfor -%}
 {%- endcapture -%}
 {%- assign jh_pre_version = jh_pre_version | split: ";" | first -%}
+
 
 {%- capture "bh_stable_version" -%}
 {%- for chart in binderhub -%}
@@ -87,15 +102,20 @@ dev aka. latest:
 
 {%- capture "bh_pre_version" -%}
 {%- for chart in binderhub -%}
+    {%- assign dots_count_after_dash = chart.version | split: "-" | shift | first | split: "." | size | minus: 1 -%}
+    {%- assign first_char_after_dash = chart.version | split: "-" | shift | first | slice: 0 -%}
     {%- if chart.version contains "-" -%}
-        {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
-        {%- if tmp > 2 -%}
-            {{ chart.version }};
+        {%- if dots_count_after_dash == 1 -%}
+            {%- if first_char_after_dash != "n" -%}
+                {{ chart.version }};
+            {%- endif -%}
         {%- endif -%}
+    {%- else -%}
+        {{ chart.version }};
     {%- endif -%}
 {%- endfor -%}
 {%- endcapture -%}
-{%- assign bh_pre_version = bh_pre_version -%}
+{%- assign bh_pre_version = bh_pre_version | split: ";" | first -%}
 
 
 {%- capture "pebble_stable_version" -%}
@@ -109,15 +129,20 @@ dev aka. latest:
 
 {%- capture "pebble_pre_version" -%}
 {%- for chart in pebble -%}
+    {%- assign dots_count_after_dash = chart.version | split: "-" | shift | first | split: "." | size | minus: 1 -%}
+    {%- assign first_char_after_dash = chart.version | split: "-" | shift | first | slice: 0 -%}
     {%- if chart.version contains "-" -%}
-        {%- assign tmp = chart.version | split: "-" | shift | first | split: "." | size -%}
-        {%- if tmp > 2 -%}
-            {{ chart.version }};
+        {%- if dots_count_after_dash == 1 -%}
+            {%- if first_char_after_dash != "n" -%}
+                {{ chart.version }};
+            {%- endif -%}
         {%- endif -%}
+    {%- else -%}
+        {{ chart.version }};
     {%- endif -%}
 {%- endfor -%}
 {%- endcapture -%}
-{%- assign pebble_pre_version = pebble_pre_version -%}
+{%- assign pebble_pre_version = pebble_pre_version | split: ";" | first -%}
 
 {
     "jupyterhub":

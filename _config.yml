@@ -1,10 +1,18 @@
-title: JupyterHub and BinderHub Helm charts for Kubernetes
-description: This repository stores Helm chart tarballs for BinderHub and JupyterHub.  Actual development of the Helm charts takes place in the BinderHub and Zero to JupyterHub repos.
-
+# This is a Jekyll configuration file
+# ref: https://jekyllrb.com/docs/configuration/options/
+#
+# We make use of this theme, and it is what makes title and description have
+# meaning.
+# ref: https://github.com/pages-themes/minimal
 theme: jekyll-theme-minimal
 
-repository: jupyterhub/zero-to-jupyterhub-k8s
+title: JupyterHub's Helm chart repository
+description: |
+  This the human friendly view of the JupyterHub team's Helm chart repository
+  where Helm charts developed elsewhere are published. The command line tool
+  <code>helm</code> will interacts with <a href="index.yaml">index.yaml</a>.
 
-stablecharts:
+# We also use custom variables accessed in index.md by {% site.variableName %}
+stableCharts:
   - jupyterhub
   - pebble
