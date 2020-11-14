@@ -1,0 +1,9 @@
+# Generated content as part of...
+# - bundle install
+# - bundle exec jekyll serve
+Gemfile.lock
+_plugins/
+_site/
+
+# Editors etc
+.vscode
