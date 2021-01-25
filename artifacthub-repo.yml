@@ -1,16 +1,24 @@
 # Artifact Hub (https://artifacthub.io) repository metadata file
 # ref: https://github.com/artifacthub/hub/blob/master/docs/repositories.md#helm-charts-repositories
 #
+# Direct links to our Helm charts:
+# - JupyterHub: https://artifacthub.io/packages/helm/jupyterhub/jupyterhub
+# - BinderHub:  https://artifacthub.io/packages/helm/jupyterhub/binderhub
+# - Pebble:     https://artifacthub.io/packages/helm/jupyterhub/pebble
+#
+# NOTE: Usage of YAML anchors are not supported it seems.
+#
 repositoryID: 80d1725c-b26d-4567-ba5c-0c60643c92b2
-owners: # (optional, used to claim repository ownership)
+owners:
   - name: Erik Sundell
     email: erik@sundellopensource.se
   - name: Simon Li
     email: orpheus+devel@gmail.com
 ignore:
+  # Ignore development versions of charts with release management. The regex
+  # matches anything that isn't looking like 1.2.3 or like 1.2.3-alpha|beta.4
+  #
   - name: jupyterhub
-    version: &stable-or-alpha-beta '^((?!\d+.\d+.\d+$|-alpha.\d+$|-beta.\d+$).)*$'
-  - name: binderhub
-    version: *stable-or-alpha-beta
+    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)$).)*$
   - name: pebble
-    version: *stable-or-alpha-beta
+    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)$).)*$
