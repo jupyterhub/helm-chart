@@ -6,8 +6,6 @@
 # - BinderHub:  https://artifacthub.io/packages/helm/jupyterhub/binderhub
 # - Pebble:     https://artifacthub.io/packages/helm/jupyterhub/pebble
 #
-# NOTE: Usage of YAML anchors are not supported it seems.
-#
 repositoryID: 80d1725c-b26d-4567-ba5c-0c60643c92b2
 owners:
   - name: Erik Sundell
@@ -15,10 +13,16 @@ owners:
   - name: Simon Li
     email: orpheus+devel@gmail.com
 ignore:
-  # Ignore development versions of charts with release management. The regex
-  # matches anything that isn't looking like 1.2.3 or like 1.2.3-alpha|beta.4
+  # We ignore all but the stable versions of the charts with release management
+  # (jupyterhub/pebble). I've disabled binderhub for now until its discussed to
+  # publish it further.
+  #
+  # The version field is a regex of RE2 kind that doesn't support negative
+  # lookaheads, so trying to ignore all but the releases following a certain
+  # pattern isn't possible I think.
   #
   - name: jupyterhub
-    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)?$).)*$
+    version: "-"
   - name: pebble
-    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)?$).)*$
+    version: "-"
+  - name: binderhub
