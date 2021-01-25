@@ -19,6 +19,6 @@ ignore:
   # matches anything that isn't looking like 1.2.3 or like 1.2.3-alpha|beta.4
   #
   - name: jupyterhub
-    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)$).)*$
+    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)?$).)*$
   - name: pebble
-    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)$).)*$
+    version: ^((?!\d+\.\d+\.\d+(-(alpha|beta)\.\d+)?$).)*$
