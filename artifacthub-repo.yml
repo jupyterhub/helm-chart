@@ -13,16 +13,23 @@ owners:
   - name: Simon Li
     email: orpheus+devel@gmail.com
 ignore:
-  # We ignore all but the stable versions of the charts with release management
-  # (jupyterhub/pebble). I've disabled binderhub for now until its discussed to
-  # publish it further.
+  # Official status -> ignore pebble:
   #
-  # The version field is a regex of RE2 kind that doesn't support negative
-  # lookaheads, so trying to ignore all but the releases following a certain
-  # pattern isn't possible I think.
+  #   In order to get official status on artifacthub.io, we must currently only
+  #   let the repo contain Helm charts of software we have created. Due to this,
+  #   pebble is not published to artifacthub.io.
   #
+  #   For official status, we must also make sure to publish the README.md file
+  #   along with the packaged helm chart, this means to include a README.md file
+  #   next to values.yaml when we package it with chartpress.
+  #
+  # Ignoring pre-releases and dev-releases:
+  #
+  #   We can ignore the pre-releases and dev-releases by passing `version: "-"`,
+  #   but it is very tricky using the RE2 kind of regexp without negative
+  #   lookaheads to only filter out the dev-releases.
+  #
+  - name: binderhub
   - name: jupyterhub
     version: "-"
   - name: pebble
-    version: "-"
-  - name: binderhub
