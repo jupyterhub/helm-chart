@@ -16,7 +16,7 @@ ignore:
   # Official status -> ignore pebble:
   #
   #   In order to get official status on artifacthub.io, we must currently only
-  #   let the repo contain Helm chart's of software we have created. Due to this,
+  #   let the repo contain Helm charts of software we have created. Due to this,
   #   pebble is not published to artifacthub.io.
   #
   #   For official status, we must also make sure to publish the README.md file
