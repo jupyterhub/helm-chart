@@ -3459,6 +3459,29 @@ entries:
     version: 0.11.1
   - apiVersion: v2
     appVersion: 1.3.0
+    created: "2021-02-16T11:43:50.10308593Z"
+    description: Multi-user Jupyter installation
+    digest: 5d5f1d170102b91b20cd032d3fdb04f88892fa5cb6ce10c2f673c3339553ca27
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.11.1-n144.h1221722e.tgz
+    version: 0.11.1-n144.h1221722e
+  - apiVersion: v2
+    appVersion: 1.3.0
     created: "2021-02-12T21:58:21.520605062Z"
     description: Multi-user Jupyter installation
     digest: f1105b5c9d3f9715bea95702edabb8829ce0ce5225be465d3bf02e408d964dfe
@@ -8064,10 +8087,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-06-01T23:23:58.836761834Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: bdb525e273df18c8a9442b08104d0c385c1d17d1d14e41797bbb8d49fa76a4de
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8088,10 +8108,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-11-08T16:31:57.250759259Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: 01c75dfcf8b2eb0a8492a1810c5b4ed223dc9a33e58a53774f96a56cfe970886
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8112,10 +8129,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-06-01T20:14:45.386125019Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: 20a5e81254820ad2e3c9b8d3343eb46b59fffd16f34b41657013b614ea646496
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8136,10 +8150,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-25T17:53:48.98046076Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: 9b270179cbc6cc428ff59c82bae94c0ea6e92750106261289d97b24c6fcbe286
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8160,10 +8171,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-15T15:20:31.077381494Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: 6c34501af4e253b5971ea45e0f467af6ff27a4f22fca8e2634027ce04b96be4f
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8184,10 +8192,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-13T02:32:10.662407125Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: 520c3bd66cc49e10846334c1a1c3b2de3a11cba79eed7ce020338c8b3105032d
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8208,10 +8213,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-10T00:11:46.302827878Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: 6cb90df2d0a395a1c5f54e4cfe23343a450ba1e1eac70b8760155b37d3851b4b
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8232,10 +8234,7 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-08T02:02:31.81489199Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
-      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
-      a DNS server. This DNS server can be configured through a REST API or configured
-      during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
     digest: f7e78f98b0a0b3e9997c37c6fdc1245aeb861f39f337b4f12dacf00856c5b985
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -8253,4 +8252,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-02-16T07:33:37.031634795Z"
+generated: "2021-02-16T11:43:50.09743359Z"
