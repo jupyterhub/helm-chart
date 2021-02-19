@@ -30,6 +30,6 @@ ignore:
   #   lookaheads to only filter out the dev-releases.
   #
   - name: binderhub
-  - name: jupyterhub
-    # version: "-"
+  # - name: jupyterhub
+  #   version: "-"
   - name: pebble
