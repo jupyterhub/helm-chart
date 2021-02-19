@@ -31,5 +31,5 @@ ignore:
   #
   - name: binderhub
   - name: jupyterhub
-    version: "-"
+    # version: "-"
   - name: pebble
