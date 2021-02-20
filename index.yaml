@@ -3473,6 +3473,49 @@ entries:
       artifacthub.io/images: |
         - image: jupyterhub/configurable-http-proxy:4.2.3
           name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:0.11.1-n146.hce40d36d
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:0.11.1-n051.h6ee24df1
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:0.11.1
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:0.11.1-n218.ha635d9d1
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:0.11.1-n051.h6ee24df1
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.7
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.5
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.3.0
+    created: "2021-02-20T00:21:58.609452744Z"
+    description: Multi-user Jupyter installation
+    digest: 9aa0d402442216d78658c6e218604b9c22c12b7550424e864ea4b68dd14fbf1e
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.11.1-n218.ha635d9d1.tgz
+    version: 0.11.1-n218.ha635d9d1
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.2.3
+          name: configurable-http-proxy
         - image: jupyterhub/k8s-hub:set-by-chartpress
           name: k8s-hub
         - image: jupyterhub/k8s-image-awaiter:set-by-chartpress
@@ -8551,4 +8594,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-02-19T09:41:14.817108574Z"
+generated: "2021-02-20T00:21:58.604516078Z"
