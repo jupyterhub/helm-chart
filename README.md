@@ -1,8 +1,8 @@
 # [helm-chart](https://github.com/jupyterhub/helm-chart)
 
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue.svg)](https://github.com/jupyterhub/helm-chart/issues)
-[![Discourse](https://img.shields.io/badge/help_forum-discourse-blue.svg)](https://discourse.jupyter.org/c/jupyterhub)
-[![Gitter](https://img.shields.io/badge/social_chat-gitter-blue.svg)](https://gitter.im/jupyterhub/jupyterhub)
+[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue?logo=github)](https://github.com/jupyterhub/helm-chart/issues)
+[![Discourse](https://img.shields.io/badge/help_forum-discourse-blue?logo=discourse)](https://discourse.jupyter.org/c/jupyterhub/z2jh-k8s)
+[![Gitter](https://img.shields.io/badge/social_chat-gitter-blue?logo=gitter)](https://gitter.im/jupyterhub/jupyterhub)
 
 This repository stores in its [`gh-pages`
 branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages) _packaged_ Helm
@@ -39,9 +39,11 @@ helm install jupyterhub/<helm chart name> --version <helm chart version>
 
 ### The JupyterHub Helm chart
 
-[![Latest stable release](https://img.shields.io/badge/dynamic/json.svg?label=stable&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
-[![Latest pre-release](https://img.shields.io/badge/dynamic/json.svg?label=pre&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
-[![Latest development release](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.latest&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
+[![Latest stable release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20stable%20release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#jupyterhub)
+[![Latest pre-release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20pre-release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#development-releases-jupyterhub)
+[![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20dev%20release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.latest&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#development-releases-jupyterhub)
+
+For an extensive list of the released versions, click the badge above!
 
 Each JupyterHub Helm chart release utilizes a specific version of [JupyterHub][]
 and [KubeSpawner][] and requires a minimum [Kubernetes][] version as well as a
@@ -52,24 +54,11 @@ available alongside JupyterHub, inspect files such as `Dockerfile` and
 `requirements.txt` within the [images
 folder](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/tree/master/images).
 
-Helm Chart v. | JupyterHub v. | Req. Kubernetes v. | Req. Helm v. | Associated files (KubeSpawner etc.)
-------------- | ------------- | ------------------ | ------------ | -
-0.10.2        | 1.2.1         | 1.14+              | 2.16.0+      | [0.10.2](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.10.2/images/hub)
-0.10.1        | 1.2.1         | 1.14+              | 2.16.0+      | [0.10.1](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.10.1/images/hub)
-0.10.0        | 1.2.0         | 1.14+              | 2.16.0+      | [0.10.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.10.0/images/hub)
-0.9.0         | 1.1.0         | 1.11+              | 2.11.0+      | [0.9.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.9.0/images/hub)
-0.8.2         | 0.9.6         | 1.11+              | 2.11.0+      | [0.8.2](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.8.2/images/hub)
-0.7.0         | 0.9.2         | 1.8+               | 2.9.0+       | [0.7.0](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/0.7.0/images/hub)
-v0.6          | 0.8.1         | ?                  | ?            | [v0.6](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.6/images/hub)
-v0.5          | 0.8.1         | ?                  | ?            | [v0.5](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.5/images/hub)
-v0.4          | 0.7.2         | ?                  | ?            | [v0.4](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.4/images/hub)
-v0.3.1        | 0.7.2         | ?                  | ?            | [v0.3.1](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.3.1/images/hub)
-v0.3          | 0.7.2         | ?                  | ?            | [v0.3](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/blob/v0.3/images/hub)
-
-
 ### The BinderHub Helm chart
 
-[![Latest development release](https://img.shields.io/badge/dynamic/json.svg?label=dev&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.binderhub.latest&colorB=orange)](https://jupyterhub.github.io/helm-chart/)
+[![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20dev%20release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.binderhub.latest&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#development-releases-binderhub)
+
+For an extensive list of the released versions, click the badge above!
 
 BinderHub's Helm chart use JupyterHub's Helm chart as a dependency. That means
 that each BinderHub use a specific version of JupyterHub's Helm chart, along
@@ -84,11 +73,6 @@ folder](https://github.com/jupyterhub/binderhub/tree/master/helm-chart/images).
 
 Currently, the BinderHub Helm chart does not tag releases though, so making a
 similar comparison to the one above is hard.
-
-Helm Chart v. | JupyterHub Helm chart v.  | BinderHub Python package v. | Repo2Docker version
-------------- | ------------------------- | --------------------------- | -
-...           | ...                       | ...                         | ...
-
 
 ## Local development of GitHub page
 
