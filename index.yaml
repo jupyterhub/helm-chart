@@ -3503,6 +3503,49 @@ entries:
           name: traefik
     apiVersion: v2
     appVersion: 1.3.0
+    created: "2021-02-25T19:19:16.632079647Z"
+    description: Multi-user Jupyter installation
+    digest: 9f518706e01cb2a701bbdd9721aa66883b0bbb5ee8e2b98ee6cbd12195b6e828
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.11.1-n264.h19e17dfb.tgz
+    version: 0.11.1-n264.h19e17dfb
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.2.3
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:0.11.1-n221.h84f79652
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:0.11.1-n221.h84f79652
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:0.11.1-n221.h84f79652
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:0.11.1-n222.hdda26bdf
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:0.11.1-n221.h84f79652
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.7
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.5
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.3.0
     created: "2021-02-25T18:43:03.671979048Z"
     description: Multi-user Jupyter installation
     digest: 046482f8e24d1bfef35c7e9c9f1fcf777919765c93a7e7b5cebdd1f28cbfae41
@@ -8864,4 +8907,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-02-25T18:43:03.660358653Z"
+generated: "2021-02-25T19:19:16.620958692Z"
