@@ -3603,6 +3603,49 @@ entries:
           name: k8s-secret-sync
         - image: jupyterhub/k8s-singleuser-sample:0.11.1-n417.h476ba0d7
           name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.10
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.8
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.4.0
+    created: "2021-05-05T06:59:29.967416802Z"
+    description: Multi-user Jupyter installation
+    digest: af89d9226551ad92fa3e307e54efdf52820e95c3500d4fb798386877282bf614
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.11.1-n453.h1a1a7c7a.tgz
+    version: 0.11.1-n453.h1a1a7c7a
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.3.2
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:0.11.1-n438.h7e6a66e9
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:0.11.1-n362.h81fdd6e0
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:0.11.1-n397.h082ef948
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:0.11.1-n397.hf8803699
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:0.11.1-n417.h476ba0d7
+          name: k8s-singleuser-sample
         - image: k8s.gcr.io/kube-scheduler:v1.19.7
           name: kube-scheduler
         - image: k8s.gcr.io/pause:3.2
@@ -10477,4 +10520,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-04T22:42:38.945943045Z"
+generated: "2021-05-05T06:59:29.95764784Z"
