@@ -3593,6 +3593,49 @@ entries:
       artifacthub.io/images: |
         - image: jupyterhub/configurable-http-proxy:4.3.2
           name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:0.11.1-n460.ha772e77d
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:0.11.1-n362.h81fdd6e0
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:0.11.1-n397.h082ef948
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:0.11.1-n458.h81d261e8
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:0.11.1-n417.h476ba0d7
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.10
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.8
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.4.0
+    created: "2021-05-07T19:28:24.816648255Z"
+    description: Multi-user Jupyter installation
+    digest: 15a870723136b7b1da9ab80942a539fe24bdadc7a05511008eb33a42f852b422
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.11.1-n460.ha772e77d.tgz
+    version: 0.11.1-n460.ha772e77d
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.3.2
+          name: configurable-http-proxy
         - image: jupyterhub/k8s-hub:0.11.1-n438.h7e6a66e9
           name: k8s-hub
         - image: jupyterhub/k8s-image-awaiter:0.11.1-n362.h81fdd6e0
@@ -10606,4 +10649,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-06T22:52:31.477160635Z"
+generated: "2021-05-07T19:28:24.812742356Z"
