@@ -3607,6 +3607,49 @@ entries:
           name: configurable-http-proxy
         - image: jupyterhub/k8s-hub:0.11.1-n495.h232e257c
           name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:0.11.1-n529.hdc6a1755
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:0.11.1-n397.h082ef948
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:0.11.1-n458.h81d261e8
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:0.11.1-n528.h7067b165
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.10
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.8
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.4.1
+    created: "2021-05-22T17:13:51.602855009Z"
+    description: Multi-user Jupyter installation
+    digest: 9abfbf407d4cef0f734cd91a843ac48f656e5f46c74ccecfc6aed79579a55704
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-0.11.1-n529.hdc6a1755.tgz
+    version: 0.11.1-n529.hdc6a1755
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.3.2
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:0.11.1-n495.h232e257c
+          name: k8s-hub
         - image: jupyterhub/k8s-image-awaiter:0.11.1-n362.h81fdd6e0
           name: k8s-image-awaiter
         - image: jupyterhub/k8s-network-tools:0.11.1-n397.h082ef948
@@ -11005,4 +11048,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-19T02:09:31.254226628Z"
+generated: "2021-05-22T17:13:51.596562764Z"
