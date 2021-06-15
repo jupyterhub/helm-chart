@@ -3671,6 +3671,49 @@ entries:
           name: traefik
     apiVersion: v2
     appVersion: 1.4.1
+    created: "2021-06-15T17:25:58.232721302Z"
+    description: Multi-user Jupyter installation
+    digest: 295c81aa1027f62558fea6ed05462391fc303e4ba90632bee9b9a555ebc43a52
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-1.0.0-n010.h4bc68884.tgz
+    version: 1.0.0-n010.h4bc68884
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.4.0
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:1.0.0
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:1.0.0
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:1.0.0
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:1.0.0
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:1.0.0-n001.h2bc17944
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.10
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.8
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.4.1
     created: "2021-06-15T12:01:22.710474215Z"
     description: Multi-user Jupyter installation
     digest: f57ed59a3946825963bbc4078d6bf0c7971a33d8fd727f6b0c6a856890f47b03
@@ -11612,4 +11655,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-15T12:01:22.705851376Z"
+generated: "2021-06-15T17:25:58.22772081Z"
