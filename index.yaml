@@ -3683,6 +3683,49 @@ entries:
           name: traefik
     apiVersion: v2
     appVersion: 1.4.1
+    created: "2021-06-23T14:24:00.897015752Z"
+    description: Multi-user Jupyter installation
+    digest: 326566d8cabdbe27ecf26ee7e3c9f23e92b939a82def20596db2e0f6db54a8a0
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-1.0.0-n024.h8e873e16.tgz
+    version: 1.0.0-n024.h8e873e16
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.4.0
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:1.0.0-n021.hb169173e
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:1.0.0
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:1.0.0
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:1.0.0
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:1.0.0-n012.hf10ac204
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.10
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.2
+          name: pause
+        - image: traefik:v2.4.8
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.4.1
     created: "2021-06-21T08:47:41.886004268Z"
     description: Multi-user Jupyter installation
     digest: bbd65450e1befa772a9400854b6d69254fb820b359dde43b60af4583969f1538
@@ -11882,4 +11925,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-06-21T08:47:41.880277547Z"
+generated: "2021-06-23T14:24:00.892205408Z"
