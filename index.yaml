@@ -2,6 +2,18 @@ apiVersion: v1
 entries:
   binderhub:
   - apiVersion: v1
+    created: "2021-07-02T07:00:32.100211235Z"
+    dependencies:
+    - name: jupyterhub
+      repository: https://jupyterhub.github.io/helm-chart
+      version: 0.11.1
+    description: A helm chart to install Binder
+    digest: 11c50ca221d26ee4c0268fbcf8e632c49dbf659ddd380fe8ada72df71e5e8f45
+    name: binderhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/binderhub-0.2.0-n598.h990047b.tgz
+    version: 0.2.0-n598.h990047b
+  - apiVersion: v1
     created: "2021-07-02T06:31:24.906740558Z"
     dependencies:
     - name: jupyterhub
@@ -12362,4 +12374,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-07-02T06:31:24.901209366Z"
+generated: "2021-07-02T07:00:32.094301835Z"
