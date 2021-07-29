@@ -2,6 +2,30 @@ apiVersion: v1
 entries:
   binderhub:
   - apiVersion: v2
+    created: "2021-07-29T10:26:16.149464518Z"
+    dependencies:
+    - name: jupyterhub
+      repository: https://jupyterhub.github.io/helm-chart
+      version: 1.1.1
+    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    digest: a55c414485b97c950dc9f23361407696edc907f23babf454a8e42a24625a5e8d
+    home: https://binderhub.readthedocs.io/en/latest/
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - binderhub
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    name: binderhub
+    sources:
+    - https://github.com/jupyterhub/binderhub
+    urls:
+    - https://jupyterhub.github.io/helm-chart/binderhub-0.2.0-n645.h06139f0.tgz
+    version: 0.2.0-n645.h06139f0
+  - apiVersion: v2
     created: "2021-07-27T05:46:35.638998392Z"
     dependencies:
     - name: jupyterhub
@@ -13484,4 +13508,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-07-27T05:46:35.632298721Z"
+generated: "2021-07-29T10:26:16.142044727Z"
