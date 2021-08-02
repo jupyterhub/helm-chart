@@ -3903,6 +3903,51 @@ entries:
       artifacthub.io/images: |
         - image: jupyterhub/configurable-http-proxy:4.5.0
           name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:1.1.1-n017.hc1bfc090
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:1.1.1
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:1.1.1
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:1.1.1
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:1.1.1-n001.h8450940f
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.13
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.5
+          name: pause
+        - image: k8s.gcr.io/pause:3.5
+          name: pause
+        - image: traefik:v2.4.11
+          name: traefik
+    apiVersion: v2
+    appVersion: 1.4.2
+    created: "2021-08-02T03:29:55.935492202Z"
+    description: Multi-user Jupyter installation
+    digest: 26d7b19c62701896c056fad4452b4aaf37552f1bd873479681c8134d0f77e308
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-1.1.1-n017.hc1bfc090.tgz
+    version: 1.1.1-n017.hc1bfc090
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.0
+          name: configurable-http-proxy
         - image: jupyterhub/k8s-hub:1.1.1-n015.h1c3c630c
           name: k8s-hub
         - image: jupyterhub/k8s-image-awaiter:1.1.1
@@ -13585,4 +13630,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-07-30T00:38:29.111576293Z"
+generated: "2021-08-02T03:29:55.928885081Z"
