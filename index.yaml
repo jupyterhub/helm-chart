@@ -5093,6 +5093,51 @@ entries:
           name: traefik
     apiVersion: v2
     appVersion: 2.0.0b1
+    created: "2021-10-03T21:09:04.385163444Z"
+    description: Multi-user Jupyter installation
+    digest: 33f2dce17f42236b51bbdaeb9ed9cd8472054afe3a742d20d03af144b61cbe30
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.17.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-1.1.3-n089.hb3a3552e.tgz
+    version: 1.1.3-n089.hb3a3552e
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.0
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:1.1.3-n065.h24433cd7
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:1.1.3
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:1.1.3-n007.h8ea40341
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:1.1.3-n007.h41ada5f6
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:1.1.3-n079.he735de56
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.19.13
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.5
+          name: pause
+        - image: k8s.gcr.io/pause:3.5
+          name: pause
+        - image: traefik:v2.4.11
+          name: traefik
+    apiVersion: v2
+    appVersion: 2.0.0b1
     created: "2021-10-02T11:33:20.774890274Z"
     description: Multi-user Jupyter installation
     digest: f8e475084f9a7b7411191dc2f637174e809bbfeed59671d071fe32bcd84a6230
@@ -16555,4 +16600,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2021-10-02T11:33:20.770482671Z"
+generated: "2021-10-03T21:09:04.379067864Z"
