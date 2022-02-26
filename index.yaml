@@ -12,7 +12,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: ba502b857a93efff393863fbd125ffed95be1576c86e850f1bb2386914ced09f
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -38,7 +38,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: d42699300e1576f53be492465d42e73d28e5048d51c35a6d18aff9228630f988
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -64,7 +64,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: f5155d71a0b8791d547471fd9a578787c09a56ebccf798906709070c7224074a
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -90,7 +90,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 8e5ca8cd9051e1204bf2282fecf996d3eb8354cf330bab4b927beef39ebffacf
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -116,7 +116,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: cffe575a74e221541e1db23b820bed51166cd45ec921529fcfb7bcebf59d2cc8
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -142,7 +142,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: bb64a2215804a7bf521757cd72f09139c56dbeca9f5b9efb75bf42597bf59a98
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -168,7 +168,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 31fa21639bf4444d6c8e71b98d6eabe2f68307c9f644364c26ad637199de5f30
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -194,7 +194,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: e96e93e41ed43e74538a01ff6fde0ca2d13062cbc44b054c9eec595f85aa1707
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -220,7 +220,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 707be9e08abbeb741850bf6fd46b4b17c075011fe8177e490f7f6fbcc02cad18
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -246,7 +246,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 8606d654a3a4294216dd890961105cc744fce7e4b241f4f2403f135fb7006865
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -272,7 +272,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: f8e5ef773bf63394dea16cfeb9649c789846d2ce38f054031737c7960180084a
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -298,7 +298,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: ecb795131a76d191b9601786bc97f5edddd9dea73bb9e2807f6af0b3e67abeb3
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -324,7 +324,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 9c48dfa0fc22ad2a694f37c05386ea34a0643d59c7800fa1d2b1e9c0c4ff0641
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -350,7 +350,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: b3d63c8e5ba5e51d54b5db67b3009bdffa20ed73074c2db17d67835ed9790fb2
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -376,7 +376,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 10588eba3dab2f618cfd6ae9da87b10d5c75ccae7510af540c36417ba625e4a1
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -402,7 +402,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 6168c8393458c5a1a9c36d34e2b0393b464d29114a9a29e96480db52a54a9d66
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -428,7 +428,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 50761916e1b1314c901e5b7d36d857075c07a26b3ec69af8889c055a59e72101
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -454,7 +454,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: b569dbb9796276410e20adbcee979f5ca22d0f4efb7819c0025a236e5d042e7e
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -480,7 +480,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 88183ae1571fffaf33b07540951e50ea06e2b69b76a9379e19d94668a92e1991
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -506,7 +506,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 292e9174a81acf2085de3e508f61081397dc6a1e02680101c68f4ea56b7c3618
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -532,7 +532,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 09aa5e1c746cac04417d41a3c0eae329074b516267319419a2b0c05874de11b8
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -558,7 +558,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 1dd2f4e68f100c5a390f405f309c852e8edce58135fbbb72e9ed391009368043
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -584,7 +584,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: ddd27c6ff159ba83c9e7dd04b4c5fec60537d699cad03916995204bcfceed3a5
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -610,7 +610,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: dc76ee883d1ef761ede67105266b0e62b463ece796c28147d0967af68e82d532
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -636,7 +636,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 4fb5e9a8f16c8c8ea7a1d0a6cd0557cb95c9ea680cb400a0b2ce63bfe08a9605
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -662,7 +662,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 897fb359120582b16db8d16e2f5c9aa3c085a285d1b7710f8833156d66be440f
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -688,7 +688,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 5f94688a0cbff5e24cd5abc580a7e6ff3a64c87cf1645ca3b09fda78b89ea254
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -714,7 +714,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 61ccab6854d456dccdf5044f46c95d09bc6ddf9230c632285aefaa723498d6e3
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -740,7 +740,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: efdce3cf8ac80ff70619a6cc0779f299490a1d04421eff56303aa15e9fe37394
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -766,7 +766,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 222b1e9fcff49eeb524cac65755288f614c8331e3c4e355838d9c6a3b0b6a121
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -792,7 +792,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 8c34f9ca6bc5fd8436ab8e4cbb6591e156c76810726b47879460f15ef581b46c
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -818,7 +818,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: f1ca3ceeabbdba2bf8424e09d37376c1798e0bef722e53c35685382d3846e943
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -844,7 +844,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 13f3a3c0a1bd209cfb51f56a4973fda0f80f6072885c593658f3ddeb12ca0a3d
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -870,7 +870,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 805a6c69e4ae79001ee3fb72516388c2ce0599cbee963e45732d3647a9243df3
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -896,7 +896,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 621083d8827ee691573cf8f51b449f97e542ef9dd87bbfc8d1172888525f18d2
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -922,7 +922,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 22d6df803af675a14141c6008e92ce8a3af727b97491ff8bf5fa30eeec43dee4
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -948,7 +948,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 9847b929e13508c1d85538579bbe0cfdc1ca405eb0c583da24c4cdb2f26162e6
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -974,7 +974,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: b0c8da6833d794a1c6fe6e6fbde80f231c76233e54f3e07be14278d832d19ff9
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1000,7 +1000,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: d2e85060bf0df4c57e2afafe33e0265da77ec3685162f8bbc785e2732232a023
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1026,7 +1026,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 43a1ca42b4c2038b8f76a75b2b822a93e9e62f8a6132f8739c876a6be217c484
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1052,7 +1052,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 9c9e236cad34329c943fc8c4e50830a22b00c10839c8a7b6ffd0326114848e9f
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1078,7 +1078,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: e2cc76877658c5403032debfbbb137f3a233467594d14f97def018f7635afef0
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1104,7 +1104,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 9f3dd4cba9983cfa12669234cec56999c75acba7875b07056c7ffef12b72ef07
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1130,7 +1130,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 20b29329251e080710292b97c4cfa3e8c58769e20438cd4096e381d76402475b
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1156,7 +1156,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 1ed434db318037be0db8b78798a398926c59c5a7c87d669586e4148d8e0aba40
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1182,7 +1182,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 53a0294dfee3eef639ec92b051caa0d6b99cf63e1f28b757c424281d4bcb75ef
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1208,7 +1208,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 156cee3d07aea393b1aed9f6583eb218c1762e0ffb41b5bd85dda1d64a6cd2da
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1234,7 +1234,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 0e12e2f37a845d12f6ec4f1d5dbffaab1ef4d66bba115eb6be3528567ed8f4cd
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1260,7 +1260,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 0590f04e6f08f18c77c4f1818704fa1afe842d213c178802229f6566dee0fcb6
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1286,7 +1286,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 6d5ff6e80d3588d5162c4773797c002611920c98621a7ff871f270b04adb7ec4
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1312,7 +1312,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 86b0f44947a0b19fc2c0eb74a5f46feef6c7df72614b334a0ff5adda6927d0a9
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1338,7 +1338,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: c7aafe1fdce48702cfabbf791d6b18a22efe325f80a794fd4682c8b9beb69ee5
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1364,7 +1364,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: d511bbfb4d07763c8ff1ae2c84d7f2ee5e262e81ebcd7b92dfa246954054ea11
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1390,7 +1390,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: da3f3934ef18771585f49ea547059bca72cab32c25f96401529d8a88090de752
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1416,7 +1416,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 4e4cff83cf67f1b1b18ab652cbf95d4e1de815e2fec70892151310bfff3db414
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1442,7 +1442,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 5754bba3d9970c676dc6ee0f0e9e77a0e5dd29c57a46b490065dc5b6f66cc851
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1468,7 +1468,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: ef047df6fb110704a16d9f2df1915ba81db7992904c6ab08330183ffe6792e42
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1494,7 +1494,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 5dfa5a03dee7cf6d715b3e9632602bc6120844334a0fdbae102f7a34d95ed848
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1520,7 +1520,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 2e880474bb5667f09bfa0d54cffd4868fa2cf7cf9e3044373fc66ac0d3c7baae
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1546,7 +1546,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 5157c0ba341359c2b53068be1ec0100edb969528cb41777b1c9c5f7c0efc852a
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1572,7 +1572,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 229fd3f0d124d4ed46717058859ad4ab63a1b900560b88c4753f0d38ab3545ea
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1598,7 +1598,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 39227fd89792c0b48c0bf231cb687b86d5f92b9fe848e7c9371c38f9eaf87afa
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1624,7 +1624,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: edf057ecca7213492e64b86d51f844c08a667ddecc4110b675021b213c6f4219
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1650,7 +1650,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 7545c7324daf42d288ceda50a2ae0f6341cb293f20af2afd4a71482862168bf2
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1676,7 +1676,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 211b3e46336e414b4bc517672a76306ac6792d2586db86616017b646cd5de66b
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1702,7 +1702,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: a20f1b05ef58917497e6a02363191cf7624a53c4dc85021994079e211453cb80
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1728,7 +1728,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 77443e6191ba514a98220005c7b49b13533a5f0459c931668b864cf736ed79fb
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1754,7 +1754,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: a55c414485b97c950dc9f23361407696edc907f23babf454a8e42a24625a5e8d
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1780,7 +1780,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 5e6d6c1abad6f902cf3632c52d780c8a9dc2aa149ccf598f96fd0090fa5b401e
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1806,7 +1806,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 9269b3b78434a7dac9769889891627767a7bdec58765c395bfba5289caee7890
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -1832,7 +1832,7 @@ entries:
       to authenticate users or provide storage for them.
     digest: 99c81f4b06f23929942986d98b5489ac73c93b70d74243a4976736eb88e7c9f7
     home: https://binderhub.readthedocs.io/en/latest/
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -5624,7 +5624,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 507f71b7a9e88bd3d4f3f3b6dc1700e03c00ce1c9307106a1c58066b25255b89
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -5669,7 +5669,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4c3f3169d60386979920499a2d1af3ddb5fda6e924e900f05e9334b5a7ee2198
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -5714,7 +5714,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 806c8a73828c68c1f859d7b33a1251cf9eed95da0708463c8a361b4f03ea39e6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -6794,7 +6794,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 182692baf34d7d5d974fb68c2c4ddf2feac572ae2d08a41fa5767ee31e35bfc3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -6839,7 +6839,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8c955b08781fe81b507109cceab690dcc2f390bd921a6d4814d6288f03f26d3c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -6884,7 +6884,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f78d830180c4a5deb9d49494ea54bca8f0c3ad302260a0c7f5502bcfa1367465
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -6929,7 +6929,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: aeeae1313f75335a9e98fefe91bb2f9f736a7304785a8146d22a1cf6c9342540
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -6974,7 +6974,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5f436c50ebaa4449ec51f1895719917eff8e527664d7022f660d59750abf7677
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7019,7 +7019,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 06cf3ffdd7eeeb74783ecc47814ff1a292e44a4ad22c2e3f7f62ac4d13c5d9da
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7064,7 +7064,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bf62d8c054c17197e3b14bc71e62c91207005d624d29ff75c90eb0f4fca8bcb0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7109,7 +7109,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a5caadedc325d5e1c8a12180bc5ee3a7a477f04f5f23011021e4ad6ee5e601a9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7154,7 +7154,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e208849c75ee530055d21f453b996e560f3bd8c8732e40c743f2dcec564cebcd
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7199,7 +7199,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 44bbbc54088817f453ea64cea2ed5fe58320020a0a4b46ab686ad8595f78b6d0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7244,7 +7244,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b5205272b5d4ebfa98221a870d944e66a8917f388be0e5ae5c61b1423bc849e8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7289,7 +7289,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 064f5fc0f33fa57ab6b0ee68745b9b6c7a5d509f5f66d3431354946d654d9fd3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7334,7 +7334,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 35e5de3d5f115e49cdca751afe0c0bab41bf53ef7f444d7274edc11550388c35
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7379,7 +7379,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b55769a35cedc970f38a93bf3c1cfd0435a306fe88dd342eafa917777c27ae66
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7424,7 +7424,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f692af5c90710b3f29eda14e810f0ea3f03778352a9a880cd923ccb1ba08fa97
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7469,7 +7469,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 053f0b554edf58cbd6f5838059503ca64780e76ef7265e52732ecb4af493c914
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7514,7 +7514,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d79c3521ccdd0d674df6ddac5aee8e47a5193681ad291cf772ab92ef4fa45d1f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7559,7 +7559,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 01abc82d546dff8d48aa1a94e3be24cba00d1f76c36a8bc6ddb718ed43e4602a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7604,7 +7604,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f4b7020bc19c2705b34531a20b4401d3815f0951ef1810780b75c92f59f91e44
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7649,7 +7649,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5fd0ab28766fdc22decc904ceade831a36eb2d32cd476f9f88a373172df6b439
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7694,7 +7694,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b953aa3741222e4db25d6cf89dd57a7d330b75f053ecdce4032d63463dc98d75
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7739,7 +7739,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 769608c7097b5e01baea2a4a70021f1880c18c111966d46765faff7ad26105fb
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7784,7 +7784,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2c37e9549a83f95ab930d1747ef6d40a17e184330a0290a23c4ac374b08ee47f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7829,7 +7829,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ce17943847c6be11b7cbbdfe9aa2fa7e508ddd548cf30c37dcc84086f11426c1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7874,7 +7874,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9b18c5040127b3bdf7ef3a0cd57c1d72bc1e2e90503103277b83cc2868a939e2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7919,7 +7919,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7cebb786095eb59e0a4a15507b4b71b6c7407adb4eaf7cf76d0b93e9ec628336
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -7964,7 +7964,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 00523dfd4d9550b53a7cde87624d6e3283605d6ce80ece524939066b14a5daa8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8009,7 +8009,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c13874cbfa38cf4545044a186fd53fb47aa9144fe4c4043d4f568919a6f03a80
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8054,7 +8054,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 836fc1a5938da39c2615e64fa564a4099d77b6c00959ce61f9016c5e99fb4959
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8099,7 +8099,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f3a03d7e79f504c4ca6651644b5585b18e53b22439604c5373325a5295e75888
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8144,7 +8144,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f93cc69ae5f344d086d526e64820e2c4e9b36dc950b9135808ea612d2ed8af64
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8189,7 +8189,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c08775997df54756dcdc07deba9950e1f2621464081d7329a8701dfc72b2ec32
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8234,7 +8234,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 99be1b1f75d4a3adc14c85ec20a64a85b8d8b49d0e8e4f3432cd7f1317919491
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8279,7 +8279,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 828383f52cc777a3e394afb80cbf9751a798a73916c889e5cd66cb17ae7f7268
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8324,7 +8324,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6b5f28afdae4068a3147330a0950c2c259122a08d26d862fea20a19664b23db0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8369,7 +8369,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0a645010bd53165e62217f10ccde2dab41453330dafbe71e130d64d9c0de9d4a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8414,7 +8414,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 37aac720961b97a341470d3e4b5817e6b04de1cb3a3457b8f1daf4bd906ff364
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8459,7 +8459,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8481792dea2eaa52a61ee767591efd2e4d6f831e6404b729b02d3cb65b3411db
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8504,7 +8504,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 662711161a70201d919d0a1031823294179fae4ca808be4fc39a8474437c9b02
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8549,7 +8549,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ac50cc97d46157870288068d4d2223661f12f5f20f40ae3341963af6a59dcba8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8594,7 +8594,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bbcb13d193e833b8a95be577814652d87a807c656d6a730ac4a0d91bef4be1d1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8639,7 +8639,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4265532a4414851f5cbc78ae2c31297508a58dc0ffdbf2788a2e820bc611dec5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8684,7 +8684,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ab46bd0dff4508d381c63e6eaeb5f7385f62dee58a600643c2effaf735bdaea2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8729,7 +8729,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f69dbb4bd5a1b9c15f752269deafd616d042d0168950fc7b18a27365aa4a6439
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8774,7 +8774,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5840b0be3437b6f3165337ed0f3522d5b72caeadcee2f7c031320e71174e0f95
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8819,7 +8819,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7eecf8c2a384093f767d1cf81fcb957bcef038c6949477d46e37b145380269c0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8864,7 +8864,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f49aadc35ce905d7b0c034ac7c95f2cf84bf0dedeb5c39962ee5e179cb725b6b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8909,7 +8909,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a75fdc030a48d2f57589fc71577c00fbf402098f095e26be168ae689e23ca99f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8954,7 +8954,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 33f2dce17f42236b51bbdaeb9ed9cd8472054afe3a742d20d03af144b61cbe30
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -8999,7 +8999,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f8e475084f9a7b7411191dc2f637174e809bbfeed59671d071fe32bcd84a6230
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9044,7 +9044,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8d802a0bbc9b601dbc5ffbf730a82fbba56d4b7fce7c7d1ee7600b1892fb54ea
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9089,7 +9089,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f8056f6a8a0aacaf6ee4392f45b475e6152530f0c3a26b0867f84fb209e5a33d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9134,7 +9134,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9a16cbb955d34b2e8baff70fa75fef7902ddc4f830a6f93fcba61b68aaee31b9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9179,7 +9179,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b17b5617b20161496a2bc65b53ef6ef0708e572107eaf332631f34fc4932c0c4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9224,7 +9224,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 516b0b9fe18f067334e73f701461f325009621e59256f5a69406f088263c0b9e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9269,7 +9269,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b7bf28e6baa40b6f93f3643bcc26224d95e61a0704bd921c9e9c1abb3fc26b40
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9314,7 +9314,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e4fccb8f3d50779380b101311570eb54da0c9dd4fe9144519c676320676d877d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9359,7 +9359,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2bcaf651db62ff91ff0eff72f7aa33231172fe249b879aef68ac7735c2277a1f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9404,7 +9404,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: cb1e0e01af3d042a09dc26a026921045d9d65fad88c3ba6f0ff7ff51357133a0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9449,7 +9449,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 793dbde7afa61a20aa6f143bffeafb6543bf45e70a19bcbabb28e7c532c734b6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9494,7 +9494,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 954bb79d5258d7b04e2878f5e3c8328903f55721ab8021f1717be32f974ca432
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9539,7 +9539,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a716917230ce3e499b11b60bed80854d218a61d9ff48fd801eddd41fade19d6d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9584,7 +9584,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 07028bd9c66cb8e5aa8052e8ed9b404a7265b064e2e96542577ae10adea16d02
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9629,7 +9629,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 17e7057e97599ff496884baa0087b9ab351c39acf9346876ab386ff09e1a929a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9674,7 +9674,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d92a50dd706b3b80d415b3017ffcef7399e5c06c8a4e73b5388cddc86cb12a52
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9719,7 +9719,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c91acfeb7c1b8774017d44260501e91e0d9342ba7c3da46a110b3b92428a9a18
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9764,7 +9764,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 55d05e43d402318e1b5c787125c54c5f8e7efb65a4220b407825d25e8319a670
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9809,7 +9809,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0bb2e1ef64f3c3567b0abcb350ead3790cb2cc4c479179f941502438f111cfb8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9854,7 +9854,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 732b6705cc1a5b6b8049c49bd328ecb9b6bd0607d007edc2342739da0e88f84e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9899,7 +9899,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1d6c04d91e72d2d377166273ce7d07def982775e32f952ec87643f431f64fb26
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9944,7 +9944,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b659013c5f8ca75dfc0021bd868440b2277b3784c30d7becbc15beed00370480
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -9989,7 +9989,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5b328345a1e4bd72302764687db71fcd0fb6683adc254cb463ccd85e274fae86
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10034,7 +10034,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: fb3f14ec31ffb3100e5baec56cd30f223f469013fd3e2f19688405db70ffe08c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10079,7 +10079,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b6443aa69b5844b459ac8df0dcffc9729de1d91f9ee17369c48acffe79d319a9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10124,7 +10124,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ddcebbe70f0da21a0e88cb51d3a2e4c8534a656c805a06e39facacdc1cddd87d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10169,7 +10169,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b7d7267fa3082aeb8941dae765ee91084cba9a00435527500466ec466f63beee
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10214,7 +10214,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b6ec4aefcf0911e2d7bf08c546875ea25e1b64c3f627e023228d9358689abc38
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10259,7 +10259,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 11babbc54b5d860ab9c3cbcb52a8bd35b08c667c823b1bfb1e8dbee31b1192e2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10304,7 +10304,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 15b330245b904391157ad0761117adea395c3ce666c3f0f4590484a2de6d6084
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10349,7 +10349,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 234cb2c01cadde5a2d663b9ec880fdd4d55e6952d0bb8680b41995689bf207dc
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10394,7 +10394,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 27ccbbc2de17644478fb60d100285d90ec22cf944ae53a8ccfbd0a1feb86ca4a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10439,7 +10439,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3ebdacbd13b1fb8922824c8f95887afc7e3e60297b43ac5b248f3460cc7f6e8f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10484,7 +10484,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9cdfa685e67926160191183428f97048739c090701f21535ae9e8b97e16d21c1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10529,7 +10529,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 02f4a0a05216f72fe6a686953ca025b4ad34fceaa027278c879ebee4d341df5d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10574,7 +10574,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7ceed29cf38b610384d7a587f5b5ae7d84fa6ffd1363b2d70738b97945f059a0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10619,7 +10619,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f3ff921a98ced3d7dde00d06298bef4aef6170c1843c4eb392c19b58e68cb05f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10664,7 +10664,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b37b2a8028ac05e29f1e6b198f4cb740ba8fc71bb69eb881143aced28e5a9e2e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10709,7 +10709,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e90c71dbeb52f0663cf6828c8e37f041ae754d2d9b521073b9472d89a85bb2c0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10754,7 +10754,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 26d7b19c62701896c056fad4452b4aaf37552f1bd873479681c8134d0f77e308
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10799,7 +10799,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b44d4a46ad5f4011588e137b96fe7bf967df63998a39a1c59e483f9eda906dd4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10844,7 +10844,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3e9a489171ce3b1615e06356ceaeddf1af667dc2424c074eb7688f692459a5e0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10889,7 +10889,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d1afc559d468e0e75c3aa203392c3fdb71015a72ffc0d90eab22600b7306d897
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10934,7 +10934,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bc46d3cc3d8f279d460fb473f09a70eac279884c0c9d9d69eeea2e61d2d87b05
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -10979,7 +10979,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e9b178bac3ae28dd99657abe80b818954138346304ed7eed2a5cd980239a8a09
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11022,7 +11022,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a3ba43835c2ec5d9543886b444b7a0209225abb9a15e684aed47fe83b293b27b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11067,7 +11067,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 493318de38199acec1f2511a3430b936f4edaf582292dbcd0c517b56db355a68
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11112,7 +11112,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e319663e2b132cd7f905c491672e86831160a28619c4d1551d710e92cf44075c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11157,7 +11157,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a4c8c297b7b82b8cc862c914cb8947024098d4041dcd61af105054b37ba21ec7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11202,7 +11202,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6b7ab8f8dba459ee04d0a0dcd5e7047c44d040beeccba93c41b9b5617a2d4c0e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11247,7 +11247,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 670c0c26fffdbde87a653a67c7a9772e96dc667980f2652959c42846ef5d0548
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11292,7 +11292,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4bca7407003733919686a9058f9d5d3ae3925a92b5aea44605eea0786429c0b1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11337,7 +11337,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: adafc2ad727bcae26dd90aac3914b919dd55208983c8e032e88b1852fea4e9b6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11382,7 +11382,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bbc4164b1700f0cad9fc710936456c6f2ff8701a6d687a17bb8520b18a5f8fcc
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11427,7 +11427,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ca283f3db276ed446c585c53aa541e1d838a2052a42c64243a2a9f570ead0b29
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11472,7 +11472,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: becc221eda3167023757733db2473812a369abd9fb320582749c7899159445d5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11517,7 +11517,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bb1f79ad926c1592e7a130eab9137f256d4a843b1846284f74233e55a63196aa
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11562,7 +11562,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0ec5a2ca995bf7a53521dc698c8f8d0bd9200b5f6369b4b58e587e85c6275078
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11607,7 +11607,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: af520975089c9fc69441b0dd91f7b6fb867eb54047992699143ccaf10da56eca
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11652,7 +11652,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6c9f58a5aeb124bf54f21f2faa1a176cbd999ac15dfc8dcbed03a0824f731337
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11697,7 +11697,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: dc32604ab93231728f7763911881aa1a0b4003b2339355498af6bb3230b06111
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11742,7 +11742,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8da076a08bf4e3f2989d2d3080c4782eacf202402c6512ae3144ebcfffd20554
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11787,7 +11787,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6f4dc32c23be5c1c5c91556bc11ca97be0b75b1d7557d052b2143796e4842019
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11832,7 +11832,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: db6053fca964ccabd6a7694ee8fa70f3effeb1e8d0898afbad73de1358aef129
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11875,7 +11875,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d9e9978e5f3d87354a0da8aa0741685030a29806caa6b782059f27bf53c29a4b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11918,7 +11918,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f96c061a46b4cc667311abd52e16cca5c121e2e253d50a3df239e2ffdd0b72d7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -11961,7 +11961,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9a9dfb5ba649fc1dc4a67200df1451b313ec8ea146f08bbdf583232c55ecc20e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12004,7 +12004,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3ba4dc0f577e92333c596f7475077341bb605cf1f596159f24f80b715b76ed0c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12047,7 +12047,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2fc5ec50a7e5f4d17a6a4d02dd3b9de3ace98cc6f4847716bfcdd1875d070d2d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12090,7 +12090,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 93298ca4fbd3842114b0860f8d104180261bf09631f06224b383d18eaa533060
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12133,7 +12133,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 96ef6047c45b7bf80564aea4c8576c77842df4794a844f655e1ddb06f4ebdad9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12176,7 +12176,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f22ed6704d8eab0fc21f7f57bc34c6a23d0917fda0601b381e08e3f2b6871c3c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12219,7 +12219,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 326566d8cabdbe27ecf26ee7e3c9f23e92b939a82def20596db2e0f6db54a8a0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12262,7 +12262,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bbd65450e1befa772a9400854b6d69254fb820b359dde43b60af4583969f1538
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12305,7 +12305,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 589bfb522dc7a233bdf9bb55481699d87cac7059d0b97a6233a433a2cba0b52a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12348,7 +12348,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ced3b87113d1feeacdcc30b17ed9f467534b72db4bb4356755e40eeae06d5521
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12391,7 +12391,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0a3a6b6589d0d6d1217f67a7c1bdc79461bc1ecf3cddd88a9b18167fb93f9885
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12434,7 +12434,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9f0beb36c2b5c01f522dbd10658e01211e3385ad13b80e5ece77fe717873e17c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12477,7 +12477,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 295c81aa1027f62558fea6ed05462391fc303e4ba90632bee9b9a555ebc43a52
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12520,7 +12520,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f57ed59a3946825963bbc4078d6bf0c7971a33d8fd727f6b0c6a856890f47b03
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12563,7 +12563,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1cf0631893c4df60d2ff99d917abf77bb32027fd7dc4b5dbc99b8ee50745f869
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12606,7 +12606,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ed5cc54faa3b2ea6a4fa8859f2094cce18794255c452404dd1fc7ff15c5528c0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12649,7 +12649,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bb8d5f202bcc46191b97a0844b12ecd09f372f1ec8f96d2907aecb8e354e07ec
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12692,7 +12692,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2ba3f8d75a0fe954f9589d66a80c2228dcad689450fe788287872a3db00432d7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12735,7 +12735,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 85d18af84d5d713423d4a7feb16f56c4e03d99b7567376db8fbd24aed152f269
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12758,7 +12758,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9a0ae5b48d5f74556230a6a3e064db5678ce6d830300f1913b04b437bd1487d7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -12797,7 +12797,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 35a8fa921c0bccce6c6bba2cb46a6ec1c785afbbf72458690149c7b149aef0e2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12840,7 +12840,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b1e98af2fc3028ddef320e5e4fbefef9dff0ca443f468855f8cb83a0141d6557
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12883,7 +12883,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c7c7ee0a2191ddf0b4689a8c263bf127908be2253b4c597872423dc949e7957e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12926,7 +12926,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a650e8bbf81a502f5189751567c3ed71119c88b10830c37d659cc0cbc9f37299
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -12969,7 +12969,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3989603f9cfbda33beddfae7b28abe62039855579271df028ad496730da261eb
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13012,7 +13012,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9abfbf407d4cef0f734cd91a843ac48f656e5f46c74ccecfc6aed79579a55704
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13055,7 +13055,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0ae8e7ff99cc628fa45fdfcfa2ed99e365b29b623b5a39659af0f8bfc2dde9b5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13098,7 +13098,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8df1dc337fdff6a4faef478de59908e2ef6ce822ee979cb6f8178617d3e37b2a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13141,7 +13141,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6b7552c345a0e6ed9135ebc38689c30891b114ac6df81c405133a2ba4c273db4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13184,7 +13184,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b3b6feb8a44e4663bb734397a260700b808aefa285c4ebfabdcda028434a0d7c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13227,7 +13227,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 843d85ff53bce7818f8ddd14c7312c17ee9fe715e485132eaebc7376dbeaf90c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13270,7 +13270,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4d3b2df164c0b7204507681b57c1135a8ead4a8a8955f838b6a2906d68f7e2a3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13313,7 +13313,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f22ae69502c1de1e868bed3bfc0aec94c715d48d48479cbb15e9b7f8113d5374
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13356,7 +13356,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 461c7653752b5dd1305994ac4eecd7ebbc06f170916ee4bcf97d1f4199ad9229
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13399,7 +13399,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 15a870723136b7b1da9ab80942a539fe24bdadc7a05511008eb33a42f852b422
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13442,7 +13442,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8c27e455a5faa245f2a86ec7ee829fcc60e7e7a862919569d261f10cbfda7429
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13485,7 +13485,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b7841c82cb0f14b71a9a6f560771676f52527eb9a238f7017ca8a4a71c4c1556
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13528,7 +13528,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: af89d9226551ad92fa3e307e54efdf52820e95c3500d4fb798386877282bf614
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13571,7 +13571,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ebdc17b6a110325234c016c439a65b3ca7fa5ede33299cc9d6596386985aa042
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13614,7 +13614,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 46311b2155f80436a534746cc494c27c1e21800508aa5493edf80c590f9b5d17
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13657,7 +13657,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4d8c8faeb6f0d42384091a160d36c3809ed372d7331facb3aea0e2aa9c4baafc
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13700,7 +13700,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9ae34e02178eddb7057663b318c56c26c3ee98c204efb86a35d260d156d1b35e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13743,7 +13743,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: df65060e1978408d895426cddccb164b7c7d8289e083d107a08301c066489894
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13786,7 +13786,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c92929e22e92ffe21f3488f5d629f9e785a1a22d0eb021b9f350af89c7953f32
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13829,7 +13829,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 71557939105639129204b519e7698a6ccb535cb6dbc628d55f8d74437300cced
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13872,7 +13872,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1fb8e5bcd0225cc0cb649af09f92477a980824d35d7e121da9adeb22d765d158
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13915,7 +13915,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d59ae4d987d8054e4eaa750e8bd9d6bca493be42e4a6124cb0063f2e110bbf64
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -13958,7 +13958,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 92d6aefc960148f31634988b07940a4fa1c94b1a3a9ac7d7ebf44ad6dca7a2f2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14001,7 +14001,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b6ada11699d573fac32c72446ad58ff64386daa17d65b2898ebeeffd3e26076a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14044,7 +14044,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: fc435e40cdca2496404f28c63064d55a84e60c4e5ad3cfe6400b0a0a3d8541fe
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14087,7 +14087,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3ba1e23f8a8c628cd151ee7a2d9bd573c20f1b692d0db4ce73fbbfac68bbc27b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14130,7 +14130,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8ed03fc88341ea30b97539708c6cba23024c367afa52cdeb2923c23f4d2001a9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14173,7 +14173,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6c40dfd2137d44cd02bea24cd83ac717f2b0228d447a6463f9cf22e479bfe271
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14216,7 +14216,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6c7a63e149212e724fb6ad5011a8bbabe025eda292ccd42a088a525ffeabac19
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14259,7 +14259,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b7af2de045e7c299a22f8bfec58715721a0c31a9dbe87a145ad37b3c46aa469c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14302,7 +14302,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1526d99144e2b3afe58124c349a09c76fa3378a2cc177a033cc849c48665beb0
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14345,7 +14345,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 539d34ba36d88e09298d0a40588300c0abf50defc75adcec4a70f5cd1e816721
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14388,7 +14388,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5871cbe5b232fe871849431fe6925b709386f30843dc5fea74c5d94cdec87aec
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14431,7 +14431,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2aaa35b9969793fe04ba5b41ca7799786e75097c14e7d52be34cbe3f1cc0ffc1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14474,7 +14474,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0faec0caf59da0a1c3e68095daf90b2be23521d69441ad1267138cb2d482af90
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14517,7 +14517,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bb276905c131683269d3c15b3d3d504cfc2f3d4f1592ef23ab81add9a5ddc446
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14560,7 +14560,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 88517877565666f95022fdf0fb137aec9a5e2ced7dbfc905f08ddc7bd980f03a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14603,7 +14603,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 52c0411a565294318268ab1a749c26a588d197effc317a63e0a4f62f1ae34bb8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14646,7 +14646,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ddd088d5c50c503aaba2b1264325d3ec02cd0f4303e09c5c6b231dc9a55766b8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14689,7 +14689,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f5fc5c7425c821e09235502437bf016831fec33d7ce050530df5488ad43fc23e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14732,7 +14732,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: eae568dba7448753ad911c35247e09e6c4f3ad8b71dc4f7230708f0e38acbedc
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14775,7 +14775,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f303f7946c2211895aada1033f0ee2f292adaa71a5c983999ffdf2c0a2114293
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14818,7 +14818,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2dd875ab54e75ebf60a2c32c95b1287975c165bac91419cd628bfdc74af3c5d5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14861,7 +14861,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d2882ef3df9a8769e66ccce852b2cfc4e58a24b5ec27b1ea585b46cac4d58c7c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14904,7 +14904,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4ebd2479f8c2b59446615ca8fd0dceff6ff2f1f05ebadcf5f08e4f29542f3579
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14947,7 +14947,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2cc260b0007ddb67b3003350555f88aeb13d5a3f4b23d77bfb714e0a3fc97e46
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -14990,7 +14990,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bf2c9c0f4631e7643ee9cbca28a4c730da0089fedd9d952a32c3725d3a8c6e21
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15033,7 +15033,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9d85c27a78ca62628a01b588ba7d2842904c4fcfee607e6352d68176fbcc6be8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15076,7 +15076,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0f34b472d1788cbe55bf9791d083b00a7b30150abc42eb08b02f5dad36fc9501
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15119,7 +15119,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6bbb2887475d2912931d0b9d545d44e182c3f6661b77fb3f3d583882be5ed462
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15162,7 +15162,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 98e398df1586ae35c33ca298690958f3d6eb08abb65b2bf4f9acd8f0e4f62c64
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15205,7 +15205,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9f518706e01cb2a701bbdd9721aa66883b0bbb5ee8e2b98ee6cbd12195b6e828
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15248,7 +15248,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 046482f8e24d1bfef35c7e9c9f1fcf777919765c93a7e7b5cebdd1f28cbfae41
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15291,7 +15291,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4df00a99cda580efacd8d05c8b1354ee1098ee8f0aa37a704b35bd4e9c067318
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15334,7 +15334,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ea2493e08e40a5c4bf4f3b4be3f52def8eab364e6b1af8527ca4356e87a174a8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15377,7 +15377,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2ed1d011807e8128dba46c3e5c3275c36cadd2bd6de814351967d542086b21dd
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15420,7 +15420,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 382a8f9aabbde2c59c46741157fc57f92c4a4f0ab53a07cee98547e232baa3b3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15463,7 +15463,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 57a509990626dbf33f8a0b4743638124df60af775fb2e9d8d183130752b527f7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15506,7 +15506,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9aa0d402442216d78658c6e218604b9c22c12b7550424e864ea4b68dd14fbf1e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15529,7 +15529,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1d8ec51d01cccc29a01ef660661f430fad6998c020c0e8777a202ba407ac7c45
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15552,7 +15552,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ce2116d45b5c78181507fa589aa0380ff4908684523bd139fa47c7a5cf1f2867
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15575,7 +15575,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 70f9ab5d516e0ea447f7489549af4de8a310f45dd134e05d54512b9717678a18
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15598,7 +15598,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b1b3e29fd9f8b947d86cfa8584b02f0fa8eb5739ab442b363fc562ac2de1d385
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15621,7 +15621,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f6f499f824670d8bec2acd89855646f512b3325cef9597b17ec70a77621bab41
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15644,7 +15644,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5d5f1d170102b91b20cd032d3fdb04f88892fa5cb6ce10c2f673c3339553ca27
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15667,7 +15667,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f1105b5c9d3f9715bea95702edabb8829ce0ce5225be465d3bf02e408d964dfe
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15690,7 +15690,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d9c720e0a67efe5e0bb933139b12bedf2e804d2781f2fda7e2cec2e13b64b592
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15713,7 +15713,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1f49334ee3d364a050e07111cf8aeb2cb8308ef6f981eb99108d90bef7899b85
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15736,7 +15736,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 64f4bf21b796ef8bb5fca57d45f1fdf0a26a33518b185575373dbe341f643ea4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15759,7 +15759,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1eb637739b81179f0b8eb11f79922ea66f687337741fd36f7f6a31689ded4e8e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15782,7 +15782,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3203211477e42ae093641ed1b1f576d046bb0a43fc2710e9ecd6530c51566208
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15805,7 +15805,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c31e87098a77c3bc81312a5c5692bee7d43aa3f33fced1898b6db1f6772ffcf2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15828,7 +15828,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1c873e06d9665f27a14d3bf113709c4547a218a5c185a2f1bf962bc832b0783e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15851,7 +15851,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 541c5f0ac97561c3ecb1531aa534970e6804e12b56dbe120ae9ca2a0cc82fea3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15874,7 +15874,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7260b24669fe1bd5a5c5d5c582b65da0e926245e5fa92cdbdf2dcd0b16f080ce
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15897,7 +15897,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5dca0131180ac4fc7728d257bfd035488cb29f230cc82ecfd3f832b06984c853
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15920,7 +15920,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f1c6d2f523d2ccd56d203d322ab82b02750d5658b1e780cd19bcb1382fcb827a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15943,7 +15943,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6caa2e08a0ca1a664b43e37339499f772f229b893fcc27171aefce38d432b630
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15966,7 +15966,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: af3bf274604e104d974c27d8a73a57e147af1b74a0e1be8d2620a420470bb6df
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -15989,7 +15989,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 823d3020d43461cc9912d330efb292316f072257dbd6d49780f78d88cd162ffb
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -16012,7 +16012,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a37cb87b86d556b39db276e50d8e9f5b45565a9e83f86b5dd7355423cc4474f7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -16035,7 +16035,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d15055523ba798be3ad00c8d32b60b6776ac2d6a4ee63947f690591791fc120b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     keywords:
     - jupyter
     - jupyterhub
@@ -16058,7 +16058,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9cadb35f61cced7394d3514d7aed83b87c0c0527cc4d51c5c9214c212aa5be59
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16077,7 +16077,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5044626435b9c6e13fc1856035ceff414e8e22e1869ef3120ec44b9cede024ae
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16096,7 +16096,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 59b43ee77960382cc280ff239f47919d46fcd62384d2d1a048cb6e0c26be5764
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16115,7 +16115,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 55362a3c204bdac0b1636fb65712ba714eaee3b1c719bd52a1c31d69ef7c9ec2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16134,7 +16134,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 638a5a08056937583fc6517d63b77af75e60e51a98625949baa25698af635611
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16153,7 +16153,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b0e5730a9201d2d8be0c26a77ba663d858b522a364a8ab1abbccd0ec15595564
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16172,7 +16172,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4d51ec039ad1a51765c0639bef6ace6d3ab1867e42915893f286d9790e1348a5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16191,7 +16191,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bdf83c2e2bbe9024d56cacb77220acda6d3136b8f9bdef7265c9a71ab1430a6a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16210,7 +16210,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9061e7fd630063d306c2cf24d5814fb0f5185deb502459f18e631756cf3b0d5b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16229,7 +16229,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: eb9dcd4627b42133a66a5816ed9036e92a2835d339f81ad7607cc26c10f39197
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16248,7 +16248,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 86442b34f30a4bca7722fb137f6ddc9d31ab95cbc10156a54aff197a8959149f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16267,7 +16267,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 188334e5e42a58c8d41f15ae2a14d80261dc1e724e0d58b4a4b60425a18abf23
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16286,7 +16286,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0c7bdfb662ebb8834c9b569f9fb75ef418f297f0af69e5a001472b169cdf223f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16305,7 +16305,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f4e02665e65051455971e7eeb1ecc948e0ce8c557c5055fa5de38834b67ad567
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16324,7 +16324,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: cce96e048b232f3ffea485364070e4403dc31970a4cffcecbf2bc18f1d27050b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16343,7 +16343,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8592fa96fba2e8dd92bd8606fbf9627c28d5f8987e44cfdaa0d1c5954b0ebacd
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16362,7 +16362,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 96c977a3e78b8d0ca1a2ca8bd2795c3f682c91804de18d0156c4f3f56758b1de
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16381,7 +16381,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9f10f505ca22fc092fecf2d9af3ccb4b45b9bc0a3b1f1b4123785359c2f3d522
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16400,7 +16400,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e32dc164d4fe6184530963fd3b4e9dfa12562711e884c747c14aba29861f43dd
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16419,7 +16419,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ee9a07324477a80d84acaafdfb85cacab5a83f235fa2f61475bb74bbf0f6a72c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16438,7 +16438,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 74f9824aed52125460b7d6087c5bba0ae5d44ee157f1082152a4f50e0891c470
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16457,7 +16457,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: cfb313af58415c4571940899d6902f39adc7876bf81ad8c72f086a8925d10220
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16476,7 +16476,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d2f8f1f60b44feabe349155280feb1f82025b0dbfda401aafa14ca9cfbb27cf8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16495,7 +16495,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0ee1af0bb889edff69334bb63501441a1e0a59d588af15ae68db886fded15443
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16514,7 +16514,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3291036f66bccac897b48061954041ee6acff28c6427db8a8af926331a78f7d2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16533,7 +16533,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c7620ab86afaa3876840fbda7d918f5f1de6388e486e59ca5d2f667dcf7a6681
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16552,7 +16552,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 96f77263c526c21f139e3df760a510ee9ad1479fdc2a4cce21d638cf504c4bfe
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16571,7 +16571,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 202554153eb240c9851f7544b320161286e2ef42f0ee060160f1b2f2d8121968
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16590,7 +16590,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a43e3e5147dad2ee005274f453fdc2b39288d99248686b104129f5811739d9d8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16609,7 +16609,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f8c2979b8f5a60ed1f1f0f674616860c6cb5017e7f833ed6d907057663d1923a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16628,7 +16628,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 498414328267968e92a24d38926d40dbd5c4b646cd2a08564aa3de727b7bf17c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16647,7 +16647,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 09a701f3f430567206bce554656bbdf20cf10675b5728fbaeaed8bb7be649d86
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16666,7 +16666,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 488329c87e221dbc59e6bbd19a4dcd6afd73966ba391ddc52269e13943cbbd3a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16685,7 +16685,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3fd61fe6b78b5079ddde65b79e2241f761b256b128b41279aa247312fc3a0743
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16704,7 +16704,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 286d9b95ed770e402dba065454f9f73ee38d9da7bace5949d353e3cb6b4e41f9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16723,7 +16723,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ae870624af9659efef89250114de2c3572e6b451cc2d10dde2662e6fa0dd60fe
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16742,7 +16742,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 951bae188c83bbad403d9d525391257320d57d1e1fe9eda6fbd4bacb66422804
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16761,7 +16761,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8530835b492a3d7e86fd584eb7fe8ddd3c97385114eebd2ad2e2f364e9e43719
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16780,7 +16780,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7baede71789ed014e6e148a04b6f49bc56847bbc9c3b4b1c28bce196df6f8ba1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16799,7 +16799,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 33c33e29fa6e4002abffeeb2e1d4a4f2ae39f086adf017ca23a031290fdf4554
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16818,7 +16818,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f65bfd66568bd360f5fef0ddb459a27720fcd94e5ef457744183a67ab9eb5442
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16837,7 +16837,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d154788ff819ae1a8a332b6fbac21bb1a82aab615a5516e5a92d8700535629b7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16856,7 +16856,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 336ca4c5f5f0daf718bbd29d1c505d4e76e9d07833b327b9362d29454ef92b90
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16875,7 +16875,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: af80debd4c918a722596842540214afd1556519bef02befa5a7bad03b1c93f6a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.14.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16894,7 +16894,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 15f5e8440647e5d9e6340434be161a2a0414d0d85937f6781fcdb82e1cfc0fbe
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16913,7 +16913,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 819eb30432ff607678c58f520a7bf1f0f1019b28c7439b9193c35ba2c6e85279
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16932,7 +16932,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 05d39742133d4ac9af97a9988bfa3fa6bc465928ae4195c17f915d68a55bd0b4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16951,7 +16951,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: abc781f84b004cb17f71f7bf83b2ad7462f56a47dd628ac977f8331a6066384f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16970,7 +16970,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2d2351c2317731f36e15a8a5f0d163b3518250162c0f5f6d3642aafe57644503
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -16989,7 +16989,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ebaedfae2246d5ae953d0f044fcb4a445bf94ef0987c2110a965f0190374b3fe
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17008,7 +17008,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 50440f1c278a19030da4285675e8cf2102a1d2eab5f384c09215b423031ac40c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17027,7 +17027,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 23e837c65b74cd50c55a77cee562f244717614ea4f36c37c62a07f227a763582
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17046,7 +17046,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: fe88913c9c2ccc2616bf2767372887069b287b23fbabbc7524775b298e423458
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17065,7 +17065,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 70951e80aa2b1e53983c026a1130bac623376975f1678779b9a0f5f4138e8138
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17084,7 +17084,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: aaafd34087763d07723f225de88f22ca05f0ff928aeb75ea8cd3c72a8221eba7
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17103,7 +17103,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b96e9135d62418c67511c71e442c7e47fe1a7ffed0cbc9515b0dfe95737b82be
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17122,7 +17122,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: dedd2238d8a11edbdbda05d1e15b1242adae827d658aa230709c413927177a7b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17141,7 +17141,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 85f4dd5f38e6aaf464c03e7b602e7e39521c2effab22a09d174347714d1a09fa
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17160,7 +17160,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a0e4cb3255fd5ad1af2db549dd185885569344d33f3332e97773cac1881f29be
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17174,7 +17174,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 52b3e4167857d0cdf37c285a0117a5a9b39e223d334bf4668015daac80cefd1f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17188,7 +17188,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ef85bcde862b8fa586f7b5230324150841c3804ce543ab77c66ee1ddad573874
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17207,7 +17207,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 82e97f8e1a70a8a0a8fa04777a23a50144d77c8f47dcd4a246dc26a0e58b6337
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17226,7 +17226,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 039a6f56e3e908ba6199fe63d89e055d0767ff1a06a06d20f81d484fb9ae1869
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17245,7 +17245,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 762e40b6f0fb94464906ad560f7e5231d2487f092887b2ea896ea7dec1f2027c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17264,7 +17264,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b3c0c78412a3db8c1261676d76ea61b997ec2ac9cc11ade8f5175c24d129540e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17283,7 +17283,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 32d082a244d69f56b4ea7ab58c1c6131f0db70468f8c98ba5d1ebea969d20410
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17302,7 +17302,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1812c8a121da33b5a8404716697d9c91349f3d166bf3a11a37a47263478c9ce6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17321,7 +17321,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8888a7d3b4d53e7082c2f179ea108aad69a245bd2d7e0674a1758ba7aab3643c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17340,7 +17340,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 954211998e7007c3145b9af9a51a4b00a2256f44287d8615c09b67fc764c2020
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17359,7 +17359,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 334eebfb6910572b15ca44fff8950da4a4c941903405699af41ca5fe89c4f939
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     maintainers:
     - email: erik@sundellopensource.se
@@ -17378,7 +17378,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b95522a4c279fddeefa5ba90b59c273913fdcae9169c196b47734b7eb034710c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17392,7 +17392,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 679a2770c7f5179f5f99c42cb4e2286a60f4abbb7ee04c7712bb5e043252a77a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17406,7 +17406,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 49f8430323556596ede8815dbaf0fe6b67db2cc6f331d194f8685f802100c159
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17420,7 +17420,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9b2fdf1f86f1ee32d3cc4de19149e02ebbf78984d9ff082b4e6561c9c7ade360
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17434,7 +17434,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 07d2117f18cb0ee3dd419726449b6dec4819c6b9afa8dbb69a22bac56331b855
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17448,7 +17448,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a130794a8c49d1c256b80b2e8e8469615902c8706b80991502684beb047ba893
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17462,7 +17462,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1aeff624939adcaadc495ea5bdd4119f8875fc492d8622a9ee96e58ba87dc12e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17476,7 +17476,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8ae144b339a54d0cdb37f4805219cdd425418d9dbc668bc194713826146b4ca2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17490,7 +17490,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b18180c4977e361130d6b1b040c2ecdf6e1a574473918d0aaffdbd4bf1d71a4a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17504,7 +17504,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9e4f489121cfb2770066ad61d28995fd21b07122db16887e658688c0210d720a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17518,7 +17518,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 12ae0683fabb3547e3daeff09afc47c7df06bddcdacdd3c8004a139ff85eb829
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17532,7 +17532,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d57893114df741b5db2c66fb5f1a45dfa669240e4581ba5cf598cb121bd08410
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17546,7 +17546,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ff6274cb023ce126d4d4660f4214df72d13879e1faac61fdecbe3b9b50964e74
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17560,7 +17560,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6fa4c60802185662f6bb2b18150cdf8e317520fdf949e5e71229e3e5f72bee0f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17574,7 +17574,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: dfc41a159bd39bcdc85b8cfa1449414399e7999bb7ef14595d199c24087d9daf
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17588,7 +17588,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 120981ac7bd202d6973bfc819717cd2bdef82a256ae1947fd552d15f6853d43b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17602,7 +17602,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7b03cd0b1d423d166e441e66374f1a842b0c67fb662f28dcc639605f95d68a7b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17616,7 +17616,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8a1cd5dd523c9b06869f8ff4f0fa1a1a01b48667871cd7e52516923150ce32cb
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17630,7 +17630,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e327dc089ea8fd254b0005544ac438b5eb874b28daccaf79040eada6755a5dcd
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17644,7 +17644,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: de387413f55678360c17276029ca85903c55ff477186c00d6bdf868c2b07cdea
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17658,7 +17658,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bb76aa08db191c4eb9381916244a04c006d4d63023cd49495b8ef531a26e1806
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17672,7 +17672,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d7597e067525222868b601db23571d1fe6cebcea81f025dafd87d9648e05ac7f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17686,7 +17686,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e789de634198cf0203c4a0f5e009afe58270864a3c13749a18b3c1c7c7c9f2c9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17700,7 +17700,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 48629d23ce27f489c5d38e7224a32080c3245660e07364f766a637ed6544fb6f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17714,7 +17714,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6bf9dd3fcac8f4f3ed27a66d3326a0395df4f8ee50de4c96dbfea070aeccb5b5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17728,7 +17728,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c2c9345cc7eca1bcbb630c4673272dfd196fe32d18f2c662ac694715f61fbc09
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17742,7 +17742,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e9852a54b6efc59004a36bb4a7071115f2f416ade80ed78c3cc7c6c6f6c3d5c4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17756,7 +17756,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6d294ea3e7aea6a9f575cfee92fec9975a4aa98b0b74b65d2e4163f950d2c07c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17770,7 +17770,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7c71de3564e90be6fe9b02fa8bb9fdd8b5c95871f5f9f65ec7a2b0aa4cfcab02
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17784,7 +17784,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: af12f194fb35c055d7d5e095841f6343187ecf242b02b5dd193d3810cdb81c16
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17798,7 +17798,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 40a1ead9287323982a8e714b1a5c27948849d2fee9782f58081caeb173abc210
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17812,7 +17812,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3e97b4b22ead13ba25f34cedbc4c672992f64233847f1d935764ebec7eb2c063
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17826,7 +17826,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 356278c249ad27f76799a5053f391d04161c7580ec9920159cd48ff3a4d40f70
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17840,7 +17840,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f5ab175279ec73f7e53383147bc6bf339075727d054578b3dd8515594511c68a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17854,7 +17854,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 4627cadd650da7ad45f1d56c8e799d70c8a038a86ecb6c4207c302750444b2eb
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17868,7 +17868,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c795ddadd34a09f05f4b019a49013c89ee1689930317fae38508b79766da79c2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17882,7 +17882,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e0d35370f43c360c451849147046611f16eb2ec7cdd63479cb0535125d2af22d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17896,7 +17896,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ea1e10e1d807362de8ee6138cbad2100797b3f718b706e75e7151a2773e13b6a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17910,7 +17910,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 50dd7cbafb247746960b943d8a8ff794bc6048d378a201d55fa3d064f7e442b9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17924,7 +17924,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: f40cb5dbb179dfcfc0611cfd6a00ab4374fab17a3166cac7008724d14670e0d2
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17938,7 +17938,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: a4cea9e34e2f3d02b2007bdfd65eaf5597d1c9bab07c8566b9143c2fc1405b2c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17952,7 +17952,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 7c7229d7cca314380f513c76e7bed6c12309a549107bbb557dd340247152f4ed
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17966,7 +17966,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6b69ded40e2e9877a9c9263ac8fde5e2bc965a490cd711c3ad4f466517e1f226
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17980,7 +17980,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8f0b6ab43d6f62ad7fd8e4c642c7afa0e190d2f7ba2499916d5da9c0f69910a9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -17994,7 +17994,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b4aa8245b8f62dab91939d399a578d4b8e8a04521bfec1d829376df1b26626c9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18008,7 +18008,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e374a448efd3487eaba5a9a4c143d216e17034cbbe08e113b99b45cad69c3e64
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18022,7 +18022,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9561df937519bc3aa19d9cec255879c358d26e89dc3c90090ecc1e4bd5c811a6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18036,7 +18036,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 89760d9253a41a38be973c1237dbfdfc096ab06b5ff8e9371b12ff09906a5b7b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18050,7 +18050,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 592b39b10340685ea9975fad62df1d27ff673d9178415f67b1bc89c9a587e74d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18064,7 +18064,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c4ac9baa5d3b60105d3562261cce9e2009cc1988acef3356d26df1d2d0da459b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18078,7 +18078,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0063c4e3581ef0d576688677ea9f00ff6183175dd5c7c1ee3ed618897814ad55
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18092,7 +18092,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8c55dd33dfe4095a6cfe67f94d78b8d34ae39a2276c28a53e0385350a25c52c8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18106,7 +18106,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ee24132494f281024f20cf0269476392515f03a1bb8e58e1c7e18f67730ecb95
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18120,7 +18120,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bba9868f7cc9ad8b71f080610c1d485a6912e9f2d6d85d183c78c4afb8e9b0c3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18134,7 +18134,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6559bc73aa696b880e247c0297ab5fd72f0b260c864d2bbc4ad1df831c59a457
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18148,7 +18148,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c147ff64ae59cbe7f72e8acdef2f795c3b7d06c119b04e4fc3ec77f18cc75bf6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18162,7 +18162,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c374b5361805f094cec7db32492136b265f44054a5399be234e7ea4a637446ef
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18176,7 +18176,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 66a8afa96b1c124896d1e3d49a517de5ea46821a64c74daefb63076284fea81e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18190,7 +18190,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c0bbb72577202a378a2ef57e3843915d9fd01355004e2f06cbca9eac67961dca
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18204,7 +18204,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b7988ed981e9e55ace19c58d5e678038c075229c51908ff29e391cc3a86d2599
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18218,7 +18218,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3007cfc3ef08195477d42f39a3db5b64b7be8a99901c5cb896f9a98a7eaa1a63
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18232,7 +18232,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: b271bfe29a15a0d0301eb506c867d816db6dcda78460918945ea7a77f7ea0dcc
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18246,7 +18246,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 050d2853049612effbe343261d4e4c4045ea9bb8184f0a767fff15b8886fd3f9
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18260,7 +18260,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 8cab8e26310325c2de5360d99ce01dae85123d2761f3935ebb6fbcbe67ae619a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18274,7 +18274,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 534761ec8869ac6e410a20e2ed9d9f96a162ea03633084c665a05c2f9e3a67e4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18288,7 +18288,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9a63611ee3487b15c9525c4c157c24dcd04ec6cb6985b087ef8b24758d890945
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18302,7 +18302,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 9c3df00810ca5d5853d968199c5f81be81499f9693c2e181c0951dbebaf7ce2d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18316,7 +18316,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 45c7aba5c59909df0bd470f4d0ca89dd18af5504a40e3146aac96726ad628fdf
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18330,7 +18330,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 00d0854f53f6537c8f4dcacece0ab139734d3088619b86b7acdf9fe536688301
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18344,7 +18344,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: ee228a812ed182d8f37b9b9f06dd153ca940a42c9ecc31db9de05707a7d3881f
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18358,7 +18358,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 84f973e5b0c34d46730aa57013a38bd950041f58f4e4b4b881d8385fffd56fb8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18372,7 +18372,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 76fa990d8bff4d7f0469c0b02828c12a2db74c65d49516e9bff9c04ba404bda1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18386,7 +18386,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 984c8729c055b8ae4ecd08cd368ae042c4f91ca62593137e2be8f3cbafeba444
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18400,7 +18400,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0d4b17dec7ac2f3b5b4c5c4d84576c9807ce40bf9250de4b7bc2dea4afb5acca
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18414,7 +18414,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: da45c5fc370afb05ad1294b6d1dea380b8752ef96afabd4d7f300fd97ef1409b
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18428,7 +18428,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e99879887a5752648689fe013eb6b891e8007ccf386e77b9e04edc55a61c70ac
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18442,7 +18442,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 32d4dbe49de7ffce9f4f1f81de24de6ae38f3f1ff7d4206dcc65b0b94ec5f575
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18456,7 +18456,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c8d5a6c5e524b52903bc3e5529483f720dbbb797828cc4b42e200a766a0120c5
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18470,7 +18470,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0e0fb246592a29a0cc2af55c34aceba848ca13b96f3550d97d38e92bb82e7b91
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18484,7 +18484,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 658cd2cd4361f5681af1451d4ac266a3c483cde6a05cd994bf4dadf956a15eb1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18498,7 +18498,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5e2242f62ece1ab24fa73d99e491de2d88e67f05cf0c82e8722a5cb410ccd3a1
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18512,7 +18512,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: bf526deb31d283a1b548cf2e2a83ac1b7f8a77435215441c61646df4831edaff
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18526,7 +18526,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6c849e78b3c670f098ba7d31c4c8fb1b9da230646811e4a89312fc16f0f75d95
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18540,7 +18540,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e26dc2e67e80be039839be637397acaa6e7f4625d582b85c2d2978ee1f233a1a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18554,7 +18554,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e27b7e4c893196c1834ddfee5eb63bf51cdd360b77ec3f85e30d08ec353b9a09
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18568,7 +18568,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 77241b0a5531f6dfa0d685a27b0f98e13e1056511c22729f005c8d5764a3d4be
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18582,7 +18582,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5918e045f565ff52893d9f3df7a3c5fdd76639799f28fef8cc7e4abfe3176d18
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18596,7 +18596,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2635fd196a60e5e6bb09877f58605da33aa95da9149e815d699821cb8c61dfdd
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18610,7 +18610,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 037f4fca173e4808c134726b678ce106dd4aba3ac02c1c86eeb2bdee8fb697f4
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18624,7 +18624,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e1ce6e7986dd7593b0a66b5e9b12b7f5b60910c17efcb8068ff2fb23268b36d8
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18638,7 +18638,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: befd3bb392102d792486d931b6890b65eb57348e18eed1991e14c4de1ed2f0e6
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18652,7 +18652,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c384d38f6f8a74be35d3c17f28ea7a3e462e8a790b52df27413c4ab800767843
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18666,7 +18666,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: c1ca042066b63d7f9109e48c9ab6ced20a1d03f361c88bd67b072731d4f9c36a
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18680,7 +18680,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: e6cceb19cd6e94a8fc7cced7b15d31873b7eabd11b4d23fa4ee5242403f5c4f3
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18694,7 +18694,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 5a867b7ac4218995e5a813ded679265ff9a2dbfa5afe1801aa51abee23766946
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18708,7 +18708,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: fd66ee73f8bb884d73389d05d47806e6d65539ac44440740d889badbfa35745d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18722,7 +18722,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: fb0929886fa0eddf659e84f429ee3a5bc7c0b6c4ad4a47d5fd6b73b158ae2d1c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18736,7 +18736,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 32793390af1f32fbe8ea95e52d2cf7270c3eab9ea014b6c880722d8e67850780
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18750,7 +18750,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 0a45da39a3834422dd57580e719932b5d922fb268b6a1091c97990861028068e
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18764,7 +18764,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 6a855bb01f91e1eab566924682834b60bb2856df3a53607eb9dca980acefa567
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18778,7 +18778,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 2df6a98d65961d541bad83b4b8134814a418a8cefe5b6dc6f4bd2286cd9e1e2c
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18792,7 +18792,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 76cdd5a8485af107e26a878b0ae19eb04b0d8dbffb8fbf2e73e4f15126949f1d
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.11.0-0'
     name: jupyterhub
     sources:
@@ -18806,7 +18806,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 3323752746fd4711e7e2810a05741645c30d896b7cee925a9cf3765fc5280a79
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     kubeVersion: '>=1.8.0-0'
     name: jupyterhub
     sources:
@@ -18820,7 +18820,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: 1e9947cafb97ee6dd915cf3ec69e47ae91148949fd7587107db08b7e4243ff54
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
@@ -18833,7 +18833,7 @@ entries:
     description: Multi-user Jupyter installation
     digest: d273b6079c92fa6ecf5d2388094ec7d41af0cffd84a84060a715b9e45f2e8059
     home: https://z2jh.jupyter.org
-    icon: https://jupyter.org/assets/hublogo.svg
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
     name: jupyterhub
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
