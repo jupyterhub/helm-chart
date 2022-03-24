@@ -21135,6 +21135,30 @@ entries:
     version: v0.3.1
   pebble:
   - apiVersion: v2
+    appVersion: v2.3.1
+    created: "2022-03-24T14:52:31.787655748Z"
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
+    digest: 0657dcaa3da6e118ddc4c659e93d6ef0bfab5cc70d70365ba2de7792e7842341
+    home: https://github.com/jupyterhub/pebble-helm-chart
+    keywords:
+    - acme
+    - pebble
+    - pebble-challtestsrv
+    - letsencrypt
+    - ci
+    - testing
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+      url: https://github.com/consideRatio
+    name: pebble
+    urls:
+    - https://jupyterhub.github.io/helm-chart/pebble-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-06-01T23:23:58.836761834Z"
     description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
@@ -21398,4 +21422,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2022-03-24T14:43:04.189052458Z"
+generated: "2022-03-24T14:52:31.786318119Z"
