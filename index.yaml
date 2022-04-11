@@ -5949,6 +5949,51 @@ entries:
           name: k8s-image-awaiter
         - image: jupyterhub/k8s-network-tools:1.1.3-n416.he2332122
           name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:1.1.3-n416.ha9e9a3f3
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:1.1.3-n404.h07b57ae9
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.23.4
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.6
+          name: pause
+        - image: k8s.gcr.io/pause:3.6
+          name: pause
+        - image: traefik:v2.6.1
+          name: traefik
+    apiVersion: v2
+    appVersion: 2.2.0
+    created: "2022-04-11T05:45:51.025789492Z"
+    description: Multi-user Jupyter installation
+    digest: 32dff308b90a85a3b43786a8b3c08423d30591703fc6621918f1fa8ef952fc6a
+    home: https://z2jh.jupyter.org
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.20.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-1.1.3-n419.h482c8563.tgz
+    version: 1.1.3-n419.h482c8563
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.1
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:1.1.3-n404.hb6e0397d
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:1.1.3-n300.h6ef0fef9
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:1.1.3-n416.he2332122
+          name: k8s-network-tools
         - image: jupyterhub/k8s-secret-sync:1.1.3-n410.hd8ae7348
           name: k8s-secret-sync
         - image: jupyterhub/k8s-singleuser-sample:1.1.3-n404.h07b57ae9
@@ -21751,4 +21796,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2022-04-11T05:42:38.863120644Z"
+generated: "2022-04-11T05:45:51.019300844Z"
