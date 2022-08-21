@@ -6118,6 +6118,51 @@ entries:
   jupyterhub:
   - annotations:
       artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.2
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:2.0.0-beta.1.n001.h25483c6f
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:2.0.0-beta.1
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:2.0.0-beta.1
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:2.0.0-beta.1
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:2.0.0-beta.1
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.23.10
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.8
+          name: pause
+        - image: k8s.gcr.io/pause:3.8
+          name: pause
+        - image: traefik:v2.8.3
+          name: traefik
+    apiVersion: v2
+    appVersion: 3.0.0b1
+    created: "2022-08-21T19:44:28.359508206Z"
+    description: Multi-user Jupyter installation
+    digest: 42e47164a0dfe5814db7f97b6aefa700ed3be4c5f1c0138b3395a91b4108802a
+    home: https://z2jh.jupyter.org
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.20.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-2.0.0-beta.1.n006.hf1ae708d.tgz
+    version: 2.0.0-beta.1.n006.hf1ae708d
+  - annotations:
+      artifacthub.io/images: |
         - image: jupyterhub/configurable-http-proxy:4.5.1
           name: configurable-http-proxy
         - image: jupyterhub/k8s-hub:2.0.0-beta.1.n001.h25483c6f
@@ -26161,4 +26206,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2022-08-18T09:02:23.867713497Z"
+generated: "2022-08-21T19:44:28.352711522Z"
