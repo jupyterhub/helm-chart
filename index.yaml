@@ -6162,6 +6162,51 @@ entries:
           name: pause
         - image: k8s.gcr.io/pause:3.8
           name: pause
+        - image: traefik:v2.8.7
+          name: traefik
+    apiVersion: v2
+    appVersion: 3.0.0
+    created: "2022-09-24T06:02:20.734189024Z"
+    description: Multi-user Jupyter installation
+    digest: e3f2a72e05462ff537d0495343dd5ed6dc25efd4022a415bb07cd1984d223a37
+    home: https://z2jh.jupyter.org
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.20.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-2.0.1-0.dev.git.5830.hdb887f49.tgz
+    version: 2.0.1-0.dev.git.5830.hdb887f49
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.3
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:2.0.1-0.dev.git.5828.hc8d491dc
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:2.0.1-0.dev.git.5805.h31f29885
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:2.0.1-0.dev.git.5805.h31f29885
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:2.0.1-0.dev.git.5822.h68892611
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:2.0.1-0.dev.git.5828.hc8d491dc
+          name: k8s-singleuser-sample
+        - image: k8s.gcr.io/kube-scheduler:v1.23.12
+          name: kube-scheduler
+        - image: k8s.gcr.io/pause:3.8
+          name: pause
+        - image: k8s.gcr.io/pause:3.8
+          name: pause
         - image: traefik:v2.8.5
           name: traefik
     apiVersion: v2
@@ -27042,4 +27087,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-23T16:08:43.829765408Z"
+generated: "2022-09-24T06:02:20.729464744Z"
