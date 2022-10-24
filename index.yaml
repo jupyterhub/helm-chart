@@ -7,7 +7,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 2.0.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: fe3e87d5fa4aa794a0f62359314945fd01462e542f13c8f5b3648f94efe587bf
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -31,7 +33,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 2.0.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 09b3a8b0630901f4aae62f6c2a873fc46deae181322c3fb8d0e45f2254f53db1
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -55,7 +59,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 2.0.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: eeb7c707f1d332f2015cece607b5b146ffd6795ca151635171fa9345acdda96f
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -79,7 +85,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 121a080cc03639d2a16a865e61763ca881fa3930a70939e3964340ff5ced9e87
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -103,7 +111,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5b69740471b47d620f828ed2924b18e440a4aac3a452c0225b6423e54dd5f66a
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -127,7 +137,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 19ef49e1bcffc9dc37166969d475c4d8777e24df796a72933e6bde3450cb50d4
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -151,7 +163,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: e48e0b77306b85f47591ad76f215aaca66d4aa811240b6296a18f89554d79a75
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -175,7 +189,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5bea802ff4558265cdf67bf2a43eeddad3872c9e5e1f2d938ee31d022a655852
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -199,7 +215,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: a52d51ddf44834fc95ec15dbc261625bd578f08a85a56e58dc3506ffac64bea2
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -223,7 +241,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 529eb51397b55f8f25dee61cfbf78f56ac73d6a3f9a002c23841c5dcdecd4865
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -247,7 +267,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 1eab92c62f930a82b9a6091823cdc107fb8df23eb312940547ab8fdce5b3ece1
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -271,7 +293,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 1afc1e086e7b9bb0842e39edbc063ce4e273aa307b3ea7ff92c13d6e0ee9f1bc
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -295,7 +319,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: a51ee8d3e3d0b83630a3ba468efd77f84507c6f0bff15ee172ffce8a3b1ce640
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -319,7 +345,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: e7ff127c558abcfb570baa006912c4f53f7ba4bd636d763a3ae2942c750d5b9f
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -343,7 +371,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 4e475124e56592f4e3b08a6c5ac313a084a924b74f35761037bc709f7e19a427
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -367,7 +397,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: bcf929a6f409968fe350c1bcca1a866f1365a2edf6c235d51df9631095901bc1
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -391,7 +423,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 4cc65c4a80f1a56edcd757e5b618ccb3426e8e2c31365efc1c7c0a50f5c73b82
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -415,7 +449,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: b7b1db9b306046598153eda3da117e9187b2880ebde17ced63af6be42dacfd14
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -439,7 +475,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 1ed6f1a129733bd39b7a75a02d83dedd91b9274854b70e39511843fe880081e7
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -463,7 +501,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 31946491dc24296e0e7e9d840d0471a71afceb0794026a2bbf1eb119e6c0c144
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -487,7 +527,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 6f26009d6a0ffe812f0f880de5461db89b9e46b5e27b26def83ba1713a51781a
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -511,7 +553,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 26bab99befccbf54b119a69aabe394a947138aeebb313c6bf56655d5c755139f
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -535,7 +579,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: ba502b857a93efff393863fbd125ffed95be1576c86e850f1bb2386914ced09f
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -559,7 +605,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: d42699300e1576f53be492465d42e73d28e5048d51c35a6d18aff9228630f988
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -583,7 +631,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: f5155d71a0b8791d547471fd9a578787c09a56ebccf798906709070c7224074a
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -607,7 +657,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 8e5ca8cd9051e1204bf2282fecf996d3eb8354cf330bab4b927beef39ebffacf
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -631,7 +683,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: cffe575a74e221541e1db23b820bed51166cd45ec921529fcfb7bcebf59d2cc8
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -655,7 +709,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: bb64a2215804a7bf521757cd72f09139c56dbeca9f5b9efb75bf42597bf59a98
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -679,7 +735,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 31fa21639bf4444d6c8e71b98d6eabe2f68307c9f644364c26ad637199de5f30
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -703,7 +761,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: e96e93e41ed43e74538a01ff6fde0ca2d13062cbc44b054c9eec595f85aa1707
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -727,7 +787,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 707be9e08abbeb741850bf6fd46b4b17c075011fe8177e490f7f6fbcc02cad18
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -751,7 +813,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 8606d654a3a4294216dd890961105cc744fce7e4b241f4f2403f135fb7006865
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -775,7 +839,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: f8e5ef773bf63394dea16cfeb9649c789846d2ce38f054031737c7960180084a
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -799,7 +865,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: ecb795131a76d191b9601786bc97f5edddd9dea73bb9e2807f6af0b3e67abeb3
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -823,7 +891,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 9c48dfa0fc22ad2a694f37c05386ea34a0643d59c7800fa1d2b1e9c0c4ff0641
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -847,7 +917,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: b3d63c8e5ba5e51d54b5db67b3009bdffa20ed73074c2db17d67835ed9790fb2
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -871,7 +943,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 10588eba3dab2f618cfd6ae9da87b10d5c75ccae7510af540c36417ba625e4a1
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -895,7 +969,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 6168c8393458c5a1a9c36d34e2b0393b464d29114a9a29e96480db52a54a9d66
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -919,7 +995,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 50761916e1b1314c901e5b7d36d857075c07a26b3ec69af8889c055a59e72101
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -943,7 +1021,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: b569dbb9796276410e20adbcee979f5ca22d0f4efb7819c0025a236e5d042e7e
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -967,7 +1047,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 88183ae1571fffaf33b07540951e50ea06e2b69b76a9379e19d94668a92e1991
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -991,7 +1073,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 292e9174a81acf2085de3e508f61081397dc6a1e02680101c68f4ea56b7c3618
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1015,7 +1099,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 09aa5e1c746cac04417d41a3c0eae329074b516267319419a2b0c05874de11b8
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1039,7 +1125,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 1dd2f4e68f100c5a390f405f309c852e8edce58135fbbb72e9ed391009368043
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1063,7 +1151,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: ddd27c6ff159ba83c9e7dd04b4c5fec60537d699cad03916995204bcfceed3a5
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1087,7 +1177,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: dc76ee883d1ef761ede67105266b0e62b463ece796c28147d0967af68e82d532
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1111,7 +1203,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 4fb5e9a8f16c8c8ea7a1d0a6cd0557cb95c9ea680cb400a0b2ce63bfe08a9605
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1135,7 +1229,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 897fb359120582b16db8d16e2f5c9aa3c085a285d1b7710f8833156d66be440f
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1159,7 +1255,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5f94688a0cbff5e24cd5abc580a7e6ff3a64c87cf1645ca3b09fda78b89ea254
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1183,7 +1281,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 61ccab6854d456dccdf5044f46c95d09bc6ddf9230c632285aefaa723498d6e3
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1207,7 +1307,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: efdce3cf8ac80ff70619a6cc0779f299490a1d04421eff56303aa15e9fe37394
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1231,7 +1333,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 222b1e9fcff49eeb524cac65755288f614c8331e3c4e355838d9c6a3b0b6a121
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1255,7 +1359,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 8c34f9ca6bc5fd8436ab8e4cbb6591e156c76810726b47879460f15ef581b46c
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1279,7 +1385,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: f1ca3ceeabbdba2bf8424e09d37376c1798e0bef722e53c35685382d3846e943
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1303,7 +1411,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 13f3a3c0a1bd209cfb51f56a4973fda0f80f6072885c593658f3ddeb12ca0a3d
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1327,7 +1437,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 805a6c69e4ae79001ee3fb72516388c2ce0599cbee963e45732d3647a9243df3
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1351,7 +1463,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 621083d8827ee691573cf8f51b449f97e542ef9dd87bbfc8d1172888525f18d2
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1375,7 +1489,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 22d6df803af675a14141c6008e92ce8a3af727b97491ff8bf5fa30eeec43dee4
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1399,7 +1515,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 9847b929e13508c1d85538579bbe0cfdc1ca405eb0c583da24c4cdb2f26162e6
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1423,7 +1541,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: b0c8da6833d794a1c6fe6e6fbde80f231c76233e54f3e07be14278d832d19ff9
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1447,7 +1567,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: d2e85060bf0df4c57e2afafe33e0265da77ec3685162f8bbc785e2732232a023
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1471,7 +1593,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 43a1ca42b4c2038b8f76a75b2b822a93e9e62f8a6132f8739c876a6be217c484
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1495,7 +1619,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 9c9e236cad34329c943fc8c4e50830a22b00c10839c8a7b6ffd0326114848e9f
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1519,7 +1645,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: e2cc76877658c5403032debfbbb137f3a233467594d14f97def018f7635afef0
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1543,7 +1671,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 9f3dd4cba9983cfa12669234cec56999c75acba7875b07056c7ffef12b72ef07
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1567,7 +1697,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 20b29329251e080710292b97c4cfa3e8c58769e20438cd4096e381d76402475b
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1591,7 +1723,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 1ed434db318037be0db8b78798a398926c59c5a7c87d669586e4148d8e0aba40
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1615,7 +1749,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 53a0294dfee3eef639ec92b051caa0d6b99cf63e1f28b757c424281d4bcb75ef
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1639,7 +1775,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 156cee3d07aea393b1aed9f6583eb218c1762e0ffb41b5bd85dda1d64a6cd2da
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1663,7 +1801,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 0e12e2f37a845d12f6ec4f1d5dbffaab1ef4d66bba115eb6be3528567ed8f4cd
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1687,7 +1827,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 0590f04e6f08f18c77c4f1818704fa1afe842d213c178802229f6566dee0fcb6
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1711,7 +1853,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 6d5ff6e80d3588d5162c4773797c002611920c98621a7ff871f270b04adb7ec4
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1735,7 +1879,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 86b0f44947a0b19fc2c0eb74a5f46feef6c7df72614b334a0ff5adda6927d0a9
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1759,7 +1905,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: c7aafe1fdce48702cfabbf791d6b18a22efe325f80a794fd4682c8b9beb69ee5
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1783,7 +1931,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: d511bbfb4d07763c8ff1ae2c84d7f2ee5e262e81ebcd7b92dfa246954054ea11
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1807,7 +1957,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: da3f3934ef18771585f49ea547059bca72cab32c25f96401529d8a88090de752
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1831,7 +1983,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 4e4cff83cf67f1b1b18ab652cbf95d4e1de815e2fec70892151310bfff3db414
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1855,7 +2009,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5754bba3d9970c676dc6ee0f0e9e77a0e5dd29c57a46b490065dc5b6f66cc851
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1879,7 +2035,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: ef047df6fb110704a16d9f2df1915ba81db7992904c6ab08330183ffe6792e42
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1903,7 +2061,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5dfa5a03dee7cf6d715b3e9632602bc6120844334a0fdbae102f7a34d95ed848
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1927,7 +2087,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 2e880474bb5667f09bfa0d54cffd4868fa2cf7cf9e3044373fc66ac0d3c7baae
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1951,7 +2113,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5157c0ba341359c2b53068be1ec0100edb969528cb41777b1c9c5f7c0efc852a
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1975,7 +2139,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 229fd3f0d124d4ed46717058859ad4ab63a1b900560b88c4753f0d38ab3545ea
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -1999,7 +2165,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 39227fd89792c0b48c0bf231cb687b86d5f92b9fe848e7c9371c38f9eaf87afa
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2023,7 +2191,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: edf057ecca7213492e64b86d51f844c08a667ddecc4110b675021b213c6f4219
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2047,7 +2217,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 7545c7324daf42d288ceda50a2ae0f6341cb293f20af2afd4a71482862168bf2
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2071,7 +2243,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 211b3e46336e414b4bc517672a76306ac6792d2586db86616017b646cd5de66b
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2095,7 +2269,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.2
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: a20f1b05ef58917497e6a02363191cf7624a53c4dc85021994079e211453cb80
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2119,7 +2295,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.1
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 77443e6191ba514a98220005c7b49b13533a5f0459c931668b864cf736ed79fb
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2143,7 +2321,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.1
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: a55c414485b97c950dc9f23361407696edc907f23babf454a8e42a24625a5e8d
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2167,7 +2347,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.1.1
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 5e6d6c1abad6f902cf3632c52d780c8a9dc2aa149ccf598f96fd0090fa5b401e
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2191,7 +2373,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.0.1
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 9269b3b78434a7dac9769889891627767a7bdec58765c395bfba5289caee7890
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -2215,7 +2399,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.0.1
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 99c81f4b06f23929942986d98b5489ac73c93b70d74243a4976736eb88e7c9f7
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyter.org/assets/hublogo.svg
@@ -3363,7 +3549,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: ea8e378ddd25abbe2ca71418bc880f901816e4cfe35af32899f209a1a55c0440
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4211,7 +4399,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 2.0.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: b2353328c71fb4e75d41e4c81c967c202a418032b759f4a3bf7fb56cfdd11446
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4235,7 +4425,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 8bf8787fb05215704d3673dc1ac2227d641845484129a8bb65755cb47df88108
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4259,7 +4451,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 31a7d8d2799b19fb673627b255c81f8ba40b224c6c62b72bb9130d983198f772
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4283,7 +4477,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 38d5f79be17cf20b257581968fe1fbfcea4ce925c66ed1b9d4217333faa50da0
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4307,7 +4503,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: bb09a9f02138d6fe36ee7be47236e804e2ba9fdcae647f463cbbdfe0c13d641b
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4331,7 +4529,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 49d06f9f87124e8df944a910b237c673106b2218b473d5021dffac55dc11f238
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4355,7 +4555,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: ccf3cc44eba8d27244eb6c6645bfbb5b52501e7c807f8a078da7a1dba757753c
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4379,7 +4581,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 27149b90de78704f4c98858c63a00081e55b6930745cb1f381af4e9afbb202e8
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -4403,7 +4607,9 @@ entries:
     - name: jupyterhub
       repository: https://jupyterhub.github.io/helm-chart
       version: 1.2.0
-    description: BinderHub is like a JupyterHub that automatically builds environments for the users based on repo2docker. A BinderHub is by default not configured to authenticate users or provide storage for them.
+    description: BinderHub is like a JupyterHub that automatically builds environments
+      for the users based on repo2docker. A BinderHub is by default not configured
+      to authenticate users or provide storage for them.
     digest: 9c37cf4db41139e0dc72bc486414d71cb79121d11bf074f9809abf293c6a08e3
     home: https://binderhub.readthedocs.io/en/latest/
     icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
@@ -6222,6 +6428,51 @@ entries:
     - https://jupyterhub.github.io/helm-chart/binderhub-0.1.0-1975451.tgz
     version: 0.1.0-1975451
   jupyterhub:
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.3
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:2.0.1-0.dev.git.5840.h71ad2287
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:2.0.1-0.dev.git.5805.h31f29885
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:2.0.1-0.dev.git.5805.h31f29885
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:2.0.1-0.dev.git.5846.hb9fd8fd8
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:2.0.1-0.dev.git.5840.h71ad2287
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.23.13
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.8
+          name: pause
+        - image: registry.k8s.io/pause:3.8
+          name: pause
+        - image: traefik:v2.9.1
+          name: traefik
+    apiVersion: v2
+    appVersion: 3.0.0
+    created: "2022-10-24T00:22:42.209136367Z"
+    description: Multi-user Jupyter installation
+    digest: 324e4e1d6fd5f4dd0b607b6dcc4447e456c1ac1770af344429463a931af09afd
+    home: https://z2jh.jupyter.org
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.20.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-2.0.1-0.dev.git.5859.he9432453.tgz
+    version: 2.0.1-0.dev.git.5859.he9432453
   - annotations:
       artifacthub.io/images: |
         - image: jupyterhub/configurable-http-proxy:4.5.3
@@ -27104,7 +27355,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.1
     created: "2022-08-18T09:02:23.869198497Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 3e06d750f3508cabe4c5dc3a41405becbf41b69cdaa1f34ade8af3b995571984
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27125,7 +27379,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.1
     created: "2022-03-24T14:52:31.787655748Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 0657dcaa3da6e118ddc4c659e93d6ef0bfab5cc70d70365ba2de7792e7842341
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27146,7 +27403,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.1
     created: "2022-08-18T08:55:00.299325487Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 3b62116370f0761655013d0e9ef20bf6dac62d51420ff4b92b24f84046863f23
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27167,7 +27427,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-06-01T23:23:58.836761834Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: bdb525e273df18c8a9442b08104d0c385c1d17d1d14e41797bbb8d49fa76a4de
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27188,7 +27451,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.1
     created: "2022-03-24T14:43:04.190905259Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 924a5a5578d17d71dc4f902579578c28d88d9f20f7cb9877b77167cbe869b6aa
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27209,7 +27475,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.1
     created: "2022-03-24T14:41:12.260009952Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: c8b4582424ffb5e431bb59a49ddfa5335d0b77bfb74d4788021418def6d25d9d
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27230,7 +27499,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2022-03-24T14:37:47.199517582Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 529c7b49ef6ae1e7f4d7e31fe9a39ff33f47c558a51a81031fa618b52f3f5df7
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27251,7 +27523,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-11-08T16:31:57.250759259Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 01c75dfcf8b2eb0a8492a1810c5b4ed223dc9a33e58a53774f96a56cfe970886
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27272,7 +27547,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-06-01T20:14:45.386125019Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 20a5e81254820ad2e3c9b8d3343eb46b59fffd16f34b41657013b614ea646496
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27293,7 +27571,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-25T17:53:48.98046076Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 9b270179cbc6cc428ff59c82bae94c0ea6e92750106261289d97b24c6fcbe286
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27314,7 +27595,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-15T15:20:31.077381494Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 6c34501af4e253b5971ea45e0f467af6ff27a4f22fca8e2634027ce04b96be4f
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27335,7 +27619,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-13T02:32:10.662407125Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 520c3bd66cc49e10846334c1a1c3b2de3a11cba79eed7ce020338c8b3105032d
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27356,7 +27643,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-10T00:11:46.302827878Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: 6cb90df2d0a395a1c5f54e4cfe23343a450ba1e1eac70b8760155b37d3851b4b
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27377,7 +27667,10 @@ entries:
   - apiVersion: v2
     appVersion: v2.3.0
     created: "2020-05-08T02:02:31.81489199Z"
-    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt) meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as a DNS server. This DNS server can be configured through a REST API or configured during startup to make all DNS lookup go to a specifc single IP. '
+    description: 'This Helm chart bootstraps Pebble: an ACME server (like Let''s Encrypt)
+      meant for testing. Pebble is also coupled to rely on pebble-challtestsrv as
+      a DNS server. This DNS server can be configured through a REST API or configured
+      during startup to make all DNS lookup go to a specifc single IP. '
     digest: f7e78f98b0a0b3e9997c37c6fdc1245aeb861f39f337b4f12dacf00856c5b985
     home: https://github.com/jupyterhub/pebble-helm-chart
     keywords:
@@ -27395,4 +27688,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2022-10-20T14:44:35.107569952Z"
+generated: "2022-10-24T00:22:42.205244815Z"
