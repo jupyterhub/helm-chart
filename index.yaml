@@ -6596,6 +6596,51 @@ entries:
           name: k8s-network-tools
         - image: jupyterhub/k8s-secret-sync:2.0.1-0.dev.git.5905.hcc59f8c5
           name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:2.0.1-0.dev.git.5914.he7e4b300
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.25.4
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: traefik:v2.9.4
+          name: traefik
+    apiVersion: v2
+    appVersion: 3.0.0
+    created: "2022-11-16T12:23:45.855527022Z"
+    description: Multi-user Jupyter installation
+    digest: 89567019e5688b333c14b47dd305d296b47b5f0a99e048e9be9613cfdaa44fc0
+    home: https://z2jh.jupyter.org
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.21.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-2.0.1-0.dev.git.5917.h56aeae28.tgz
+    version: 2.0.1-0.dev.git.5917.h56aeae28
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.3
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:2.0.1-0.dev.git.5909.h557c96e6
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:2.0.1-0.dev.git.5866.h7de20b77
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:2.0.1-0.dev.git.5866.h7de20b77
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:2.0.1-0.dev.git.5905.hcc59f8c5
+          name: k8s-secret-sync
         - image: jupyterhub/k8s-singleuser-sample:2.0.1-0.dev.git.5909.h557c96e6
           name: k8s-singleuser-sample
         - image: registry.k8s.io/kube-scheduler:v1.25.4
@@ -28429,4 +28474,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-15T06:02:38.604633501Z"
+generated: "2022-11-16T12:23:45.850221311Z"
