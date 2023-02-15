@@ -7280,6 +7280,51 @@ entries:
           name: pause
         - image: registry.k8s.io/pause:3.9
           name: pause
+        - image: traefik:v2.9.7
+          name: traefik
+    apiVersion: v2
+    appVersion: 3.1.1
+    created: "2023-02-15T08:00:26.925903562Z"
+    description: Multi-user Jupyter installation
+    digest: 3c2d07f498b927fff52b01535aaeee7bf542107dc279d0852eedd6f2317ec7d1
+    home: https://z2jh.jupyter.org
+    icon: https://jupyterhub.github.io/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.21.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-2.0.1-0.dev.git.6010.h3f4e717f.tgz
+    version: 2.0.1-0.dev.git.6010.h3f4e717f
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.4
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:2.0.1-0.dev.git.6008.ha7d20f9c
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:2.0.1-0.dev.git.5866.h7de20b77
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:2.0.1-0.dev.git.6000.h3053d41b
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:2.0.1-0.dev.git.6000.h2ae7e032
+          name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:2.0.1-0.dev.git.6008.ha7d20f9c
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.25.6
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: registry.k8s.io/pause:3.9
+          name: pause
         - image: traefik:v2.9.6
           name: traefik
     apiVersion: v2
@@ -30230,4 +30275,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-13T06:43:23.033698715Z"
+generated: "2023-02-15T08:00:26.921354943Z"
