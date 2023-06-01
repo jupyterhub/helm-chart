@@ -9,7 +9,7 @@ branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages) _packaged_ Helm
 charts for [BinderHub][] and [Zero to JupyterHub K8s][]. These packaged Helm
 charts are made available as a valid [Helm chart
 repository](https://helm.sh/docs/chart_repository/) on [an automatically updated
-website](https://jupyterhub.github.io/helm-chart/) thanks to [GitHub Pages][].
+website](https://hub.jupyter.org/helm-chart/) thanks to [GitHub Pages][].
 We use [chartpress][] to add package and add Helm charts to this Helm chart
 repository.
 
@@ -25,7 +25,7 @@ the additional details required.
 ```shell
 # Let helm the command line tool know about a Helm chart repository
 # that we decide to name jupyterhub.
-helm repo add jupyterhub https://jupyterhub.github.io/helm-chart/
+helm repo add jupyterhub https://hub.jupyter.org/helm-chart/
 helm repo update
 
 # Simplified example on how to install a Helm chart from a Helm chart repository
@@ -39,9 +39,9 @@ helm install jupyterhub/<helm chart name> --version <helm chart version>
 
 ### The JupyterHub Helm chart
 
-[![Latest stable release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20stable%20release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.stable&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#jupyterhub)
-[![Latest pre-release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20pre-release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.pre&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#development-releases-jupyterhub)
-[![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20dev%20release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.jupyterhub.latest&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#development-releases-jupyterhub)
+[![Latest stable release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20stable%20release&url=https://hub.jupyter.org/helm-chart/info.json&query=$.jupyterhub.stable&logo=helm&logoColor=white)](https://hub.jupyter.org/helm-chart#jupyterhub)
+[![Latest pre-release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20pre-release&url=https://hub.jupyter.org/helm-chart/info.json&query=$.jupyterhub.pre&logo=helm&logoColor=white)](https://hub.jupyter.org/helm-chart#development-releases-jupyterhub)
+[![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20dev%20release&url=https://hub.jupyter.org/helm-chart/info.json&query=$.jupyterhub.latest&logo=helm&logoColor=white)](https://hub.jupyter.org/helm-chart#development-releases-jupyterhub)
 
 For an extensive list of the released versions, click the badge above!
 
@@ -52,24 +52,24 @@ minimum [Helm][] version to function properly.
 For detailed information about what Python libraries and other packages are
 available alongside JupyterHub, inspect files such as `Dockerfile` and
 `requirements.txt` within the [images
-folder](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/tree/master/images).
+folder](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/tree/main/images).
 
 ### The BinderHub Helm chart
 
-[![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20dev%20release&url=https://jupyterhub.github.io/helm-chart/info.json&query=$.binderhub.latest&logo=helm&logoColor=white)](https://jupyterhub.github.io/helm-chart#development-releases-binderhub)
+[![Latest development release of the Helm chart](https://img.shields.io/badge/dynamic/json.svg?label=Latest%20dev%20release&url=https://hub.jupyter.org/helm-chart/info.json&query=$.binderhub.latest&logo=helm&logoColor=white)](https://hub.jupyter.org/helm-chart/#development-releases-binderhub)
 
 For an extensive list of the released versions, click the badge above!
 
 BinderHub's Helm chart use JupyterHub's Helm chart as a dependency. That means
 that each BinderHub use a specific version of JupyterHub's Helm chart, along
 with BinderHub specific components like the [BinderHub Python
-package](https://github.com/jupyterhub/binderhub/tree/master/binderhub) itself
+package](https://github.com/jupyterhub/binderhub/tree/main/binderhub) itself
 and [repo2docker][].
 
 For detailed information about what Python libraries and other packages are
 available alongside BinderHub, inspect files such as `Dockerfile` and
 `requirements.txt` within the [images
-folder](https://github.com/jupyterhub/binderhub/tree/master/helm-chart/images).
+folder](https://github.com/jupyterhub/binderhub/tree/main/helm-chart/images).
 
 Currently, the BinderHub Helm chart does not tag releases though, so making a
 similar comparison to the one above is hard.
@@ -87,7 +87,7 @@ keep this in mind.
   language (with some [additions](https://jekyllrb.com/docs/liquid/)) to
   generate and host static web pages.
 - Everything that is to be used to generate [the GitHub
-  Page](https://jupyterhub.github.io/helm-chart/) is required to reside at the
+  Page](https://hub.jupyter.org/helm-chart/) is required to reside at the
   [`gh-pages` branch](https://github.com/jupyterhub/helm-chart/tree/gh-pages).
 - Templates get data from a [Jekyll Data
   Folder](https://jekyllrb.com/docs/datafiles/#the-data-folder) that you can
