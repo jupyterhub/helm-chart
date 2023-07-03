@@ -8260,6 +8260,51 @@ entries:
           name: k8s-network-tools
         - image: jupyterhub/k8s-secret-sync:3.0.0-beta.1
           name: k8s-secret-sync
+        - image: jupyterhub/k8s-singleuser-sample:3.0.0-beta.1.git.6215.hcb5a8b1d
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.26.6
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: traefik:v2.10.3
+          name: traefik
+    apiVersion: v2
+    appVersion: 4.0.1
+    created: "2023-07-03T05:42:40.724777225Z"
+    description: Multi-user Jupyter installation
+    digest: 6fa730955a5afd7a45ba2218314dda20f9896339ad0aa3861d174bf5d2fff12f
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.23.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-3.0.0-beta.1.git.6218.h771a93aa.tgz
+    version: 3.0.0-beta.1.git.6218.h771a93aa
+  - annotations:
+      artifacthub.io/images: |
+        - image: jupyterhub/configurable-http-proxy:4.5.5
+          name: configurable-http-proxy
+        - image: jupyterhub/k8s-hub:3.0.0-beta.1.git.6215.hef21a40d
+          name: k8s-hub
+        - image: jupyterhub/k8s-image-awaiter:3.0.0-beta.1
+          name: k8s-image-awaiter
+        - image: jupyterhub/k8s-network-tools:3.0.0-beta.1.git.6206.h7353bee7
+          name: k8s-network-tools
+        - image: jupyterhub/k8s-secret-sync:3.0.0-beta.1
+          name: k8s-secret-sync
         - image: jupyterhub/k8s-singleuser-sample:3.0.0-beta.1
           name: k8s-singleuser-sample
         - image: registry.k8s.io/kube-scheduler:v1.26.6
@@ -34053,4 +34098,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2023-07-03T05:27:59.272603452Z"
+generated: "2023-07-03T05:42:40.719561019Z"
