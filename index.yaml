@@ -9508,6 +9508,51 @@ entries:
           name: k8s-hub
         - image: quay.io/jupyterhub/k8s-image-awaiter:3.2.2-0.dev.git.6426.h8ee2752d
           name: k8s-image-awaiter
+        - image: quay.io/jupyterhub/k8s-network-tools:3.2.2-0.dev.git.6477.h96df159c
+          name: k8s-network-tools
+        - image: quay.io/jupyterhub/k8s-secret-sync:3.2.2-0.dev.git.6477.hb1b09d35
+          name: k8s-secret-sync
+        - image: quay.io/jupyterhub/k8s-singleuser-sample:3.2.2-0.dev.git.6469.hca50d805
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.28.5
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: registry.k8s.io/pause:3.9
+          name: pause
+        - image: traefik:v2.10.7
+          name: traefik
+    apiVersion: v2
+    appVersion: 4.0.2
+    created: "2024-01-16T20:43:06.012242805Z"
+    description: Multi-user Jupyter installation
+    digest: 2ee1fd46b0020c031f7272fdda3c46ca1856e34706eafcbe4950a7be741a60bb
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.24.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-3.2.2-0.dev.git.6480.h4d598901.tgz
+    version: 3.2.2-0.dev.git.6480.h4d598901
+  - annotations:
+      artifacthub.io/images: |
+        - image: quay.io/jupyterhub/configurable-http-proxy:4.6.1
+          name: configurable-http-proxy
+        - image: quay.io/jupyterhub/k8s-hub:3.2.2-0.dev.git.6469.hb503bcac
+          name: k8s-hub
+        - image: quay.io/jupyterhub/k8s-image-awaiter:3.2.2-0.dev.git.6426.h8ee2752d
+          name: k8s-image-awaiter
         - image: quay.io/jupyterhub/k8s-network-tools:3.2.2-0.dev.git.6435.he52b8100
           name: k8s-network-tools
         - image: quay.io/jupyterhub/k8s-secret-sync:3.2.2-0.dev.git.6477.hb1b09d35
@@ -38905,4 +38950,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2024-01-16T20:41:06.446197316Z"
+generated: "2024-01-16T20:43:06.004537495Z"
