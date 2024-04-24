@@ -34,6 +34,8 @@ Limit advertised development releases to those published in the last year
 {% for chartmap in site.data.index.entries %}
 ### Development releases: {{ chartmap[0] }}
 
+Development releases older than one year isn't listed below.
+
 | Version | Date | App. version |
 |---------|------|---------------------|
   {%- assign sortedcharts = chartmap[1] | sort: 'created' | reverse %}
