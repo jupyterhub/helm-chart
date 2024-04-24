@@ -1,12 +1,15 @@
-## See installation instructions for:
+## JupyterHub helm charts
+{:.no_toc}
+
+See installation instructions for:
 
 - [JupyterHub](https://zero-to-jupyterhub.readthedocs.io)
 - [BinderHub](https://binderhub.readthedocs.io)
 
 Jump to:
-{%- for chartmap in site.data.index.entries %}
-- [Development Releases: {{ chartmap[0] }}](#development-releases-{{ chartmap[0] | slugify }})
-{%- endfor %}
+
+- this list will be replaced with the table of contents
+{:toc}
 
 
 ## Stable releases
@@ -26,15 +29,15 @@ Jump to:
   {%- endif %}
 {% endfor %}
 
-{%- comment %}
-Limit advertised development releases to those published in the last year
-{%- endcomment %}
+## Development releases
+
+Development releases older than one year aren't listed below,
+but can still be installed with `helm`.
+
 {%- assign year_ago = 'now' | date: "%s" | minus: 31536000 %}
 
 {% for chartmap in site.data.index.entries %}
 ### Development releases: {{ chartmap[0] }}
-
-Development releases older than one year isn't listed below.
 
 | Version | Date | App. version |
 |---------|------|---------------------|
