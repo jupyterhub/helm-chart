@@ -10382,6 +10382,51 @@ entries:
           name: k8s-secret-sync
         - image: quay.io/jupyterhub/k8s-singleuser-sample:4.0.0-0.dev.git.6686.h2ce2bee6
           name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.28.12
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.10
+          name: pause
+        - image: registry.k8s.io/pause:3.10
+          name: pause
+        - image: traefik:v3.1.1
+          name: traefik
+    apiVersion: v2
+    appVersion: 5.1.0
+    created: "2024-07-31T10:34:43.169663664Z"
+    description: Multi-user Jupyter installation
+    digest: a181aee247575300f1814150da707c4bf265bf57ed6bc52fc32b3d490000814a
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.26.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-4.0.0-0.dev.git.6688.h86e22a5e.tgz
+    version: 4.0.0-0.dev.git.6688.h86e22a5e
+  - annotations:
+      artifacthub.io/images: |
+        - image: quay.io/jupyterhub/configurable-http-proxy:4.6.2
+          name: configurable-http-proxy
+        - image: quay.io/jupyterhub/k8s-hub:4.0.0-0.dev.git.6686.h2ce2bee6
+          name: k8s-hub
+        - image: quay.io/jupyterhub/k8s-image-awaiter:4.0.0-0.dev.git.6645.h0214ca54
+          name: k8s-image-awaiter
+        - image: quay.io/jupyterhub/k8s-network-tools:4.0.0-0.dev.git.6651.hdba9c098
+          name: k8s-network-tools
+        - image: quay.io/jupyterhub/k8s-secret-sync:4.0.0-0.dev.git.6665.h76a90584
+          name: k8s-secret-sync
+        - image: quay.io/jupyterhub/k8s-singleuser-sample:4.0.0-0.dev.git.6686.h2ce2bee6
+          name: k8s-singleuser-sample
         - image: registry.k8s.io/kube-scheduler:v1.28.11
           name: kube-scheduler
         - image: registry.k8s.io/pause:3.10
@@ -43739,4 +43784,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2024-07-31T10:33:17.250002888Z"
+generated: "2024-07-31T10:34:43.166794653Z"
