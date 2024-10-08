@@ -8,9 +8,9 @@ theme: jekyll-theme-minimal
 
 title: JupyterHub's Helm chart repository
 description: |
-  This the human friendly view of the JupyterHub team's Helm chart repository
+  This is the human friendly view of the JupyterHub team's Helm chart repository
   where Helm charts developed elsewhere are published. The command line tool
-  <code>helm</code> will interacts with <a href="index.yaml">index.yaml</a>.
+  <code>helm</code> will interact with <a href="index.yaml">index.yaml</a>.
 
 # We also use custom variables accessed in index.md by {% site.variableName %}
 stableCharts:
