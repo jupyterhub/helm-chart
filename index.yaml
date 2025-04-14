@@ -11162,6 +11162,51 @@ entries:
           name: k8s-image-awaiter
         - image: quay.io/jupyterhub/k8s-network-tools:4.1.1-0.dev.git.6949.h138f95a8
           name: k8s-network-tools
+        - image: quay.io/jupyterhub/k8s-secret-sync:4.1.1-0.dev.git.6990.h743cc732
+          name: k8s-secret-sync
+        - image: quay.io/jupyterhub/k8s-singleuser-sample:4.1.1-0.dev.git.6988.hc5e9d168
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.30.11
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.10
+          name: pause
+        - image: registry.k8s.io/pause:3.10
+          name: pause
+        - image: traefik:v3.3.5
+          name: traefik
+    apiVersion: v2
+    appVersion: 5.3.0rc0
+    created: "2025-04-14T07:52:08.462197599Z"
+    description: Multi-user Jupyter installation
+    digest: a30d39b630541fa0ef209725f0cc652e29ec49c182ee7275f596a3e1886bfac6
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.28.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-4.1.1-0.dev.git.6993.hf3acca22.tgz
+    version: 4.1.1-0.dev.git.6993.hf3acca22
+  - annotations:
+      artifacthub.io/images: |
+        - image: quay.io/jupyterhub/configurable-http-proxy:4.6.3
+          name: configurable-http-proxy
+        - image: quay.io/jupyterhub/k8s-hub:4.1.1-0.dev.git.6988.hc5e9d168
+          name: k8s-hub
+        - image: quay.io/jupyterhub/k8s-image-awaiter:4.1.1-0.dev.git.6990.h5503146a
+          name: k8s-image-awaiter
+        - image: quay.io/jupyterhub/k8s-network-tools:4.1.1-0.dev.git.6949.h138f95a8
+          name: k8s-network-tools
         - image: quay.io/jupyterhub/k8s-secret-sync:4.1.1-0.dev.git.6949.h78d62c2f
           name: k8s-secret-sync
         - image: quay.io/jupyterhub/k8s-singleuser-sample:4.1.1-0.dev.git.6988.hc5e9d168
@@ -49344,4 +49389,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2025-04-14T07:51:04.062231601Z"
+generated: "2025-04-14T07:52:08.458238393Z"
