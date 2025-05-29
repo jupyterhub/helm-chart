@@ -11238,6 +11238,51 @@ entries:
   jupyterhub:
   - annotations:
       artifacthub.io/images: |
+        - image: quay.io/jupyterhub/configurable-http-proxy:5.0.1
+          name: configurable-http-proxy
+        - image: quay.io/jupyterhub/k8s-hub:4.2.1-0.dev.git.7048.hfe62521e
+          name: k8s-hub
+        - image: quay.io/jupyterhub/k8s-image-awaiter:4.2.1-0.dev.git.7014.hc8959795
+          name: k8s-image-awaiter
+        - image: quay.io/jupyterhub/k8s-network-tools:4.2.1-0.dev.git.7014.hc8959795
+          name: k8s-network-tools
+        - image: quay.io/jupyterhub/k8s-secret-sync:4.2.1-0.dev.git.7023.hf1ed4048
+          name: k8s-secret-sync
+        - image: quay.io/jupyterhub/k8s-singleuser-sample:4.2.1-0.dev.git.7048.hfe62521e
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.30.13
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.10
+          name: pause
+        - image: registry.k8s.io/pause:3.10
+          name: pause
+        - image: traefik:v3.4.1
+          name: traefik
+    apiVersion: v2
+    appVersion: 5.3.0
+    created: "2025-05-29T05:35:18.309033173Z"
+    description: Multi-user Jupyter installation
+    digest: 583d35e4f43651c6de9d2a572ea1b4da118957bdc9918bbaa7bcd3fa375c8c86
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.28.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-4.2.1-0.dev.git.7054.h2a38b99f.tgz
+    version: 4.2.1-0.dev.git.7054.h2a38b99f
+  - annotations:
+      artifacthub.io/images: |
         - image: quay.io/jupyterhub/configurable-http-proxy:5.0.0
           name: configurable-http-proxy
         - image: quay.io/jupyterhub/k8s-hub:4.2.1-0.dev.git.7048.hfe62521e
@@ -50193,4 +50238,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2025-05-28T05:10:14.423379441Z"
+generated: "2025-05-29T05:35:18.305984905Z"
