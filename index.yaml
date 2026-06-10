@@ -14867,6 +14867,51 @@ entries:
       artifacthub.io/images: |
         - image: quay.io/jupyterhub/configurable-http-proxy:5.2.0
           name: configurable-http-proxy
+        - image: quay.io/jupyterhub/k8s-hub:4.4.0
+          name: k8s-hub
+        - image: quay.io/jupyterhub/k8s-image-awaiter:4.4.0
+          name: k8s-image-awaiter
+        - image: quay.io/jupyterhub/k8s-network-tools:4.4.0
+          name: k8s-network-tools
+        - image: quay.io/jupyterhub/k8s-secret-sync:4.4.0
+          name: k8s-secret-sync
+        - image: quay.io/jupyterhub/k8s-singleuser-sample:4.4.0
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.30.14
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.10.1
+          name: pause
+        - image: registry.k8s.io/pause:3.10.1
+          name: pause
+        - image: traefik:v3.6.12
+          name: traefik
+    apiVersion: v2
+    appVersion: 5.5.0
+    created: "2026-06-10T22:40:25.69599071Z"
+    description: Multi-user Jupyter installation
+    digest: 99e429ca8205bf21468eaed978da7b425b94ead966db1875211dc310c6ebf228
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.28.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-4.4.0.tgz
+    version: 4.4.0
+  - annotations:
+      artifacthub.io/images: |
+        - image: quay.io/jupyterhub/configurable-http-proxy:5.2.0
+          name: configurable-http-proxy
         - image: quay.io/jupyterhub/k8s-hub:4.3.5
           name: k8s-hub
         - image: quay.io/jupyterhub/k8s-image-awaiter:4.3.5
@@ -57855,4 +57900,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2026-06-10T22:09:42.799945138Z"
+generated: "2026-06-10T22:40:25.693076754Z"
