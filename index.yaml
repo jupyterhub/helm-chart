@@ -17947,6 +17947,51 @@ entries:
     version: 5.0.0-0.dev.git.7297.h030c49ec
   - annotations:
       artifacthub.io/images: |
+        - image: quay.io/jupyterhub/configurable-http-proxy:5.4.0
+          name: configurable-http-proxy
+        - image: quay.io/jupyterhub/k8s-hub:4.4.5
+          name: k8s-hub
+        - image: quay.io/jupyterhub/k8s-image-awaiter:4.4.5
+          name: k8s-image-awaiter
+        - image: quay.io/jupyterhub/k8s-network-tools:4.4.5
+          name: k8s-network-tools
+        - image: quay.io/jupyterhub/k8s-secret-sync:4.4.5
+          name: k8s-secret-sync
+        - image: quay.io/jupyterhub/k8s-singleuser-sample:4.4.5
+          name: k8s-singleuser-sample
+        - image: registry.k8s.io/kube-scheduler:v1.30.14
+          name: kube-scheduler
+        - image: registry.k8s.io/pause:3.10.1
+          name: pause
+        - image: registry.k8s.io/pause:3.10.1
+          name: pause
+        - image: traefik:v3.6.12
+          name: traefik
+    apiVersion: v2
+    appVersion: 5.5.5
+    created: "2026-11-06T21:58:30.771712178Z"
+    description: Multi-user Jupyter installation
+    digest: 27ad182c708244537f425a7ec3354d1a098776e7acd96b7f0d9a4d38f0cda415
+    home: https://z2jh.jupyter.org
+    icon: https://hub.jupyter.org/helm-chart/images/hublogo.svg
+    keywords:
+    - jupyter
+    - jupyterhub
+    - z2jh
+    kubeVersion: '>=1.28.0-0'
+    maintainers:
+    - email: erik@sundellopensource.se
+      name: Erik Sundell
+    - name: Simon Li
+      url: https://github.com/manics/
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://jupyterhub.github.io/helm-chart/jupyterhub-4.4.5.tgz
+    version: 4.4.5
+  - annotations:
+      artifacthub.io/images: |
         - image: quay.io/jupyterhub/configurable-http-proxy:5.2.0
           name: configurable-http-proxy
         - image: quay.io/jupyterhub/k8s-hub:4.4.4
@@ -61162,4 +61207,4 @@ entries:
     urls:
     - https://jupyterhub.github.io/helm-chart/pebble-0.0.1.tgz
     version: 0.0.1
-generated: "2026-11-06T16:39:42.766832021Z"
+generated: "2026-11-06T21:58:30.767327068Z"
